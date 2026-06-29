@@ -1,0 +1,2779 @@
+{
+    "pageProps": {
+        "category": "movies",
+        "adminSelectedLists": [
+            {
+                "description": "Storytelling wouldn’t be anything without technology, and neither would genre; horror itself is so shaped and defined by the ways that we tell it, make it, and create it. From viral videotapes to mysterious records that contain bewitching spells, the technology filmmakers and artists use says as much about them, about horror, and about creation itself as the stories themselves. Urban legends spread through word of mouth in a marginalized community in one film, and are hidden from the public by the government despite heavy filmic evidence in another. These films are great horror movies, sure; but they’re also about the horror genre and how technology impacts how we interact, engage, and are shaped by those stories, technology more broadly, and the ongoing conversation between horror, technology and audiences. ",
+                "entityCount": 13,
+                "entityTypeId": "urn:entity:movie",
+                "id": 227701,
+                "lastAction": "2021-10-28T18:44:48.370155+00:00",
+                "likedCount": 57,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "2e5447a0-9cd1-4cf8-ac24-7c53757291c9",
+                            "resourceId": 1859,
+                            "slug": "Grindhouse",
+                            "entityName": "Grindhouse",
+                            "disambiguation": "2007",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Grindhouse_%282007%29.png",
+                            "rating": 4.3,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "A double-bill of thrillers that recall both filmmakers' favorite exploitation films. \"Grindhouse\" (a downtown movie theater in disrepair since its glo",
+                            "likes": 11586,
+                            "dislikes": 701,
+                            "saves": 205,
+                            "mehs": 591,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2007,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Luling, Texas, USA"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Grindhouse_(film)",
+                            "videoId": "LXApQ5uF92w"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "e268415c-25c4-48fe-a78b-2f6715496e83",
+                            "resourceId": 4779,
+                            "slug": "The-Ring-Movie",
+                            "entityName": "The Ring",
+                            "disambiguation": "2002",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Theringpostere.jpg/200px-Theringpostere.jpg",
+                            "rating": 4.4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Rachel Keller is a journalist investigating a videotape that may have killed four teenagers (including her niece). There is an urban legend about this",
+                            "likes": 14549,
+                            "dislikes": 608,
+                            "saves": 33,
+                            "mehs": 602,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2002,
+                                "content_rating": "14A",
+                                "release_country": "United States",
+                                "filming_location": "Port Townsend, Washington, USA",
+                                "short_description": "2002 film directed by Gore Verbinski"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/The_Ring_(2002_film)",
+                            "videoId": "yzR2GY-ew8I"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "368f22a3-a841-4a34-bd3e-11d2a9da314a",
+                            "resourceId": 8235,
+                            "slug": "One-Hour-Photo",
+                            "entityName": "One Hour Photo",
+                            "disambiguation": "2002",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/One_Hour_Photo_movie.jpg",
+                            "rating": 4.5,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Middle aged Sy Parrish works as a technician at a one hour photo lab located in a SavMart store in a suburban mall. Sy is a lonely man, never having h",
+                            "likes": 8505,
+                            "dislikes": 278,
+                            "saves": 35,
+                            "mehs": 420,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2002,
+                                "content_rating": "14",
+                                "release_country": "United States",
+                                "filming_location": "Brentwood, Los Angeles, California, USA",
+                                "short_description": "2002 film by Mark Romanek"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/One_Hour_Photo",
+                            "videoId": "2gYXuURrLVA"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "bcf7d7b2-89be-4d8d-820c-843c689be7e8",
+                            "resourceId": 16588,
+                            "slug": "New-Nightmare-1994",
+                            "entityName": "New Nightmare",
+                            "disambiguation": "1995",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Wes_Craven%27s_New_Nightmare_US_poster.jpg/130px-Wes_Craven%27s_New_Nightmare_US_poster.jpg",
+                            "rating": 4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "It's nearing the 10th Anniversary of the film 'A Nightmare on Elm Street' and one of the stars, Heather Langenkamp is being scared by a voice on a pho",
+                            "likes": 5658,
+                            "dislikes": 511,
+                            "saves": 2,
+                            "mehs": 406,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1995,
+                                "content_rating": "14",
+                                "release_country": "United States",
+                                "filming_location": "Gothic Avenue / San Fernando Mission Boulevard, USA",
+                                "short_description": "1994 slasher film"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Wes_Craven's_New_Nightmare",
+                            "videoId": "aQw9sjwf0O8"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "5eb72c07-a7dc-4d1e-9afd-119e8f689850",
+                            "resourceId": 31897,
+                            "slug": "Scream-3",
+                            "entityName": "Scream 3",
+                            "disambiguation": "2000",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/1/19/Scream3_ver2.jpg",
+                            "rating": 3.1,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "A new film is currently in production, and a killer is on the loose. The murders draw a reporter, ex-cop, and young woman to the set of the movie insp",
+                            "likes": 6848,
+                            "dislikes": 1526,
+                            "saves": 4,
+                            "mehs": 1091,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2000,
+                                "content_rating": "14A",
+                                "release_country": "United States",
+                                "filming_location": "1336 Harper Avenue, West Hollywood, California, USA",
+                                "short_description": "2000 American slasher film"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Scream_3",
+                            "videoId": "bYi-rmHfrP8"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "3bd9827b-ea89-4aa7-a28e-c7f41f75ba42",
+                            "resourceId": 81716,
+                            "slug": "Eyes-Of-Laura-Mars",
+                            "entityName": "Eyes of Laura Mars",
+                            "disambiguation": "1979",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Eyesoflauramars.jpg",
+                            "rating": 4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Suddenly Laura Mars can see through the eyes of a serial killer as he commits his crimes. She contacts the police and with the aid of a police detecti",
+                            "likes": 1549,
+                            "dislikes": 122,
+                            "saves": 1,
+                            "mehs": 131,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1979,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Columbus Circle, Manhattan, New York City, New York, USA",
+                                "short_description": "1978 film by Irvin Kershner"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Eyes_of_Laura_Mars",
+                            "videoId": "f_-4L-mssnQ"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "212fbe68-b7e4-4b40-8ec0-f4591ad7efcc",
+                            "resourceId": 114708,
+                            "slug": "The-Bay",
+                            "entityName": "The Bay",
+                            "disambiguation": "2012",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/2/28/The_Bay_%28film%29.jpg",
+                            "rating": 3.3,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "This \"found-footage\" film is set in 2009 in the town of Claridge, Maryland on the Chesapeake Bay. During the town's annual 4th of July Crab Festival, ",
+                            "likes": 4069,
+                            "dislikes": 859,
+                            "saves": 52,
+                            "mehs": 405,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2012,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Georgetown, South Carolina, USA",
+                                "short_description": "2012 film directed by Barry Levinson"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/The_Bay_(film)",
+                            "videoId": "ctkkn1qSYKw"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "a1cb869a-f0f9-4361-abaf-f8cafad028ba",
+                            "resourceId": 118799,
+                            "slug": "The-Lords-Of-Salem",
+                            "entityName": "The Lords of Salem",
+                            "disambiguation": "2013",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Lords-of-salem-teaser.jpg",
+                            "rating": 2.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Heidi, a blond rock chick, DJs at a local radio station, and together with the two Hermans (Whitey and Munster) forms part of the \"Big H Radio Team.\" ",
+                            "likes": 4011,
+                            "dislikes": 1550,
+                            "saves": 20,
+                            "mehs": 407,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2013,
+                                "content_rating": "18A",
+                                "release_country": "Canada",
+                                "filming_location": "Salem, Massachusetts, USA",
+                                "short_description": "2012 film by Rob Zombie"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/The_Lords_of_Salem_(film)",
+                            "videoId": "Y606RoSur8o"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "29a0b4df-8afc-4bbc-bec0-e372c0654e97",
+                            "resourceId": 290281,
+                            "slug": "Unfriended-Dark-Web",
+                            "entityName": "Unfriended: Dark Web",
+                            "disambiguation": "2018",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/9/98/UnfriendedDarkWebPoster.jpg",
+                            "rating": 3.4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Tells the story about a teen who comes into possession of a new laptop and finds that it may have been stolen. He discovers the previous owner may be ",
+                            "likes": 4809,
+                            "dislikes": 940,
+                            "saves": 2,
+                            "mehs": 389,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2018,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "short_description": "2018 film directed by Stephen Susco"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Unfriended:_Dark_Web",
+                            "videoId": "XenTM_C9fxM"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "82c1d12b-5eda-44e9-b592-adf910353be1",
+                            "resourceId": 301718,
+                            "slug": "The-Cabin-In-The-Woods-2011",
+                            "entityName": "The Cabin in the Woods",
+                            "disambiguation": "2012",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/8/84/The_Cabin_in_the_Woods_%282012%29_theatrical_poster.jpg",
+                            "rating": 4.2,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Five teenagers head off for a weekend at a secluded cabin in the woods. They arrive to find they are quite isolated with no means of communicating wit",
+                            "likes": 17406,
+                            "dislikes": 1362,
+                            "saves": 89,
+                            "mehs": 790,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2012,
+                                "content_rating": "18A",
+                                "release_country": "United States",
+                                "filming_location": "Coquihalla Canyon Provincial Park, British Columbia, Canada",
+                                "short_description": "2012 film directed by Drew Goddard"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods",
+                            "videoId": "NsIilFNNmkY"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "29c61902-a877-453a-ae65-e7b605c410b5",
+                            "resourceId": 315168,
+                            "slug": "Perfect-Blue-1997",
+                            "entityName": "Perfect Blue",
+                            "disambiguation": "1998",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/Perfectblueposter.png",
+                            "rating": 4.8,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Mima leaves the idol group CHAM, in order to pursue her dream as an actress. Mima climbs up the rocky road to success by performing as rape victims an",
+                            "likes": 9391,
+                            "dislikes": 119,
+                            "saves": 0,
+                            "mehs": 132,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1999,
+                                "content_rating": "16",
+                                "release_country": "Japan",
+                                "short_description": "1997 film by Satoshi Kon"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Perfect_Blue",
+                            "videoId": "4uRakM7gpo4"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "49dc68c2-e923-424a-b3fb-43ddfacfc0fe",
+                            "resourceId": 315172,
+                            "slug": "Funny-Games-2007",
+                            "entityName": "Funny Games",
+                            "disambiguation": "2008",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Mpafunnygamesposterb.jpg",
+                            "rating": 4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "In this English-language remake of a deconstruction in the way violence is portrayed in the media, a family settles into its vacation home, which happ",
+                            "likes": 7793,
+                            "dislikes": 786,
+                            "saves": 0,
+                            "mehs": 344,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2008,
+                                "content_rating": "14A",
+                                "release_country": "United States",
+                                "filming_location": "Head of the Harbor, Long Island, New York, USA",
+                                "short_description": "2007 film by Michael Haneke"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Funny_Games_(2007_film)",
+                            "videoId": "Ec-70W_K77U"
+                        }
+                    }
+                ],
+                "slug": "glitchcraft-self-reflexive-horror-genre-and-technology",
+                "title": "Glitchcraft: Self-Reflexive Horror, Genre, and Technology",
+                "typeCount": [
+                    {
+                        "count": 13,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 13,
+                "reviewedCount": 13,
+                "user": {
+                    "id": 422295,
+                    "image": "https://lh3.googleusercontent.com/a-/AOh14Gh1DI09Pvjmyz8yAi5b2uUpfFNqY4-1UzqBO-VW=s96-c",
+                    "name": "Kyle Turner",
+                    "username": "kyleturner"
+                }
+            },
+            {
+                "description": "Queerness and queer horror — which is to say horror that is about or aestheticizes queerness, otherness, sexual deviancy, as experience, metaphor, dream, and nightmare — are embedded in the history of the genre, from Bram Stoker’s novel Dracula to James Whale’s 1935 film The Bride of Frankenstein. From a masked killers (one of which uses a dildo knife) to genderqueer dolls, the films selected for this program elaborate upon and extrapolate from queerness not merely as identity but as aesthetic impulse, rooted in subversion, confrontation, camp, an understanding of queerness as a tool to challenge, or deconstruct, normative ideas in art and society. Drenched in blood, paranoia, and forbidden desire, horror is queer down to the bone. ",
+                "entityCount": 13,
+                "entityTypeId": "urn:entity:movie",
+                "id": 227699,
+                "lastAction": "2021-10-28T18:34:47.934007+00:00",
+                "likedCount": 98,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "8190ec99-8591-49a9-b28a-a5787342663a",
+                            "resourceId": 325,
+                            "slug": "The-Fly",
+                            "entityName": "The Fly",
+                            "disambiguation": "1986",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fly_poster.jpg",
+                            "rating": 4.6,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "An eccentric scientist changes the world with his teleportation technology: when his experiment seems to be going well, Dr. Seth Brundle tests his mac",
+                            "likes": 12972,
+                            "dislikes": 308,
+                            "saves": 105,
+                            "mehs": 403,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1986,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "John Anderson Charcoal Broiled Hamburgers, 5270 Yonge Street, Willowdale, Toronto, Ontario, Canada",
+                                "short_description": "1986 film by David Cronenberg"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/The_Fly_(1986_film)",
+                            "videoId": "fj1SHpBsY7w"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "6b36f74a-9cd7-4db1-b1ec-c42b8933f698",
+                            "resourceId": 346,
+                            "slug": "Jennifer-s-Body",
+                            "entityName": "Jennifer's Body",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Jennifers_body_ver2.jpg/136px-Jennifers_body_ver2.jpg",
+                            "rating": 2.9,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Nerdy, reserved bookworm Needy Lesnicki, and arrogant, conceited cheerleader Jennifer Check are best friends, though they share little in common. They",
+                            "likes": 8726,
+                            "dislikes": 2646,
+                            "saves": 41,
+                            "mehs": 1072,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Devil's Kettle Falls, Minnesota, USA",
+                                "short_description": "2009 film by Karyn Kusama"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Jennifer%27s_Body",
+                            "videoId": "C8azftM5puI"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "11d6632f-215d-4c2d-b116-5b0721a285bb",
+                            "resourceId": 4410,
+                            "slug": "Let-The-Right-One-In-2008",
+                            "entityName": "Let the Right One In",
+                            "disambiguation": "2008",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Let_the_Right_One_In_%28Swedish%29.jpg",
+                            "rating": 4.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Oskar, a bullied 12-year old, dreams of revenge. He falls in love with Eli, a peculiar girl. She can't stand the sun or food and to come into a room s",
+                            "likes": 12667,
+                            "dislikes": 340,
+                            "saves": 51,
+                            "mehs": 225,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2008,
+                                "content_rating": "R",
+                                "release_country": "Sweden",
+                                "filming_location": "Örnäset, Luleå, Norrbottens län, Sweden",
+                                "short_description": "2008 Swedish horror romance film directed by Tomas Alfredson"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)",
+                            "videoId": "BoPJJSXZDEM"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "3fbc3554-fdbf-4fa9-ae13-c9fff61c8202",
+                            "resourceId": 7042,
+                            "slug": "Hellraiser-Movie",
+                            "entityName": "Hellraiser",
+                            "disambiguation": "1987",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Hellraiser-UK-Quad-poster.JPG/320px-Hellraiser-UK-Quad-poster.JPG",
+                            "rating": 4.4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "When Kirsty's father, Larry, and stepmother, Julia, move into Larry's childhood home, Kirsty and her boyfriend take a room nearby. Unfortunately for a",
+                            "likes": 10016,
+                            "dislikes": 506,
+                            "saves": 51,
+                            "mehs": 469,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1987,
+                                "content_rating": "R",
+                                "release_country": "United Kingdom",
+                                "filming_location": "187 Dollis Hill Lane, Dollis Hill, Brent, London, England, UK",
+                                "short_description": "1987 horror film directed by Clive Barker"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Hellraiser",
+                            "videoId": "8mOn4h0lgKQ"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "309e8493-cd01-4aa9-8184-9afbb6d08cca",
+                            "resourceId": 7086,
+                            "slug": "High-Tension-Movie",
+                            "entityName": "High Tension",
+                            "disambiguation": "2003",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/High-Tension-film-poster.jpg/200px-High-Tension-film-poster.jpg",
+                            "rating": 4.1,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Alexia travels with her friend Marie to spend a couple of days with her family in their farm in the country. They arrive late and are welcomed by Alex",
+                            "likes": 7020,
+                            "dislikes": 593,
+                            "saves": 55,
+                            "mehs": 334,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2003,
+                                "content_rating": "R",
+                                "release_country": "France",
+                                "filming_location": "Bucharest, Romania",
+                                "short_description": "2003 film"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Haute_Tension",
+                            "videoId": "ZsfqXekOvJQ"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "ddb003aa-084f-4b79-abbb-771a332d57c1",
+                            "resourceId": 8962,
+                            "slug": "Inland-Empire",
+                            "entityName": "Inland Empire",
+                            "disambiguation": "2007",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Inpos.jpg",
+                            "rating": 4.1,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "After an uncomfortable, borderline disturbing visitation by a cryptic neighbour, the fading movie star, Nikki Grace, is thrilled to hear that she has ",
+                            "likes": 7766,
+                            "dislikes": 666,
+                            "saves": 233,
+                            "mehs": 303,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2007,
+                                "content_rating": "R",
+                                "release_country": "France",
+                                "filming_location": "Lódz, Lódzkie, Poland",
+                                "short_description": "2006 film by David Lynch",
+                                "production_company": "Tumult Foundation"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Inland_Empire_(film)",
+                            "videoId": "5yv9E-H2OEM"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "1ed3b881-db37-44b3-b2d0-340ce8dc3ae5",
+                            "resourceId": 16303,
+                            "slug": "Seed-Of-Chucky",
+                            "entityName": "Seed of Chucky",
+                            "disambiguation": "2004",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Seed_Of_Chucky_2.jpg",
+                            "rating": 2.1,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "The killer doll is back. Glen, the orphan doll offspring of the irrepressible devilish-doll-come-to-life Chucky and his equally twisted bride Tiffany.",
+                            "likes": 3763,
+                            "dislikes": 2308,
+                            "saves": 10,
+                            "mehs": 575,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2004,
+                                "content_rating": "18A",
+                                "release_country": "United States",
+                                "filming_location": "Romania",
+                                "short_description": "2005 American horror comedy film by Don Mancini"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Seed_of_Chucky",
+                            "videoId": "CKc-mP5xXQY"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "2bc0b6fe-5bee-473b-9488-b06317ee9fdc",
+                            "resourceId": 29778,
+                            "slug": "Cruising",
+                            "entityName": "Cruising",
+                            "disambiguation": "1980",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Cruisingposter.jpg",
+                            "rating": 4.2,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "A serial killer brutally slays and dismembers several gay men in New York's S&M and leather districts. The young police officer Steve Burns is sent un",
+                            "likes": 4088,
+                            "dislikes": 269,
+                            "saves": 1,
+                            "mehs": 212,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1980,
+                                "content_rating": "18+",
+                                "release_country": "West Germany",
+                                "filming_location": "Hotel St. James, 109 West 45th Street, Manhattan, New York City, New York, USA",
+                                "short_description": "1980 film by William Friedkin"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Cruising_(film)",
+                            "videoId": "bn31G2SHkVE"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "f3df6c39-c707-4951-b61f-9fd839dbc37f",
+                            "resourceId": 50203,
+                            "slug": "Black-Swan-Movie",
+                            "entityName": "Black Swan",
+                            "disambiguation": "2010",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Black_Swan_poster.jpg/200px-Black_Swan_poster.jpg",
+                            "rating": 4.5,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Nina (Portman) is a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She l",
+                            "likes": 27527,
+                            "dislikes": 1064,
+                            "saves": 191,
+                            "mehs": 1068,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2010,
+                                "content_rating": "14A",
+                                "release_country": "United States",
+                                "filming_location": "The Concert Hall, Performing Arts Center, Purchase College, State University Of New York at Purchase, Purchase, New York, USA",
+                                "short_description": "2010 film directed by Darren Aronofsky"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Black_Swan_(film)",
+                            "videoId": "5jaI1XOB-bs"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "7384d002-6081-4302-b03d-40156bb87499",
+                            "resourceId": 144326,
+                            "slug": "Stranger-By-The-Lake",
+                            "entityName": "Stranger by the Lake",
+                            "disambiguation": "2013",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Stranger_by_the_Lake_poster.jpg",
+                            "rating": 4.2,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "Franck, a fit gay man, seeks love at a lakeside gay cruising beach. Among the mostly pudgy nude sunbathers, he befriends Henri, a depressed middle-age",
+                            "likes": 3636,
+                            "dislikes": 269,
+                            "saves": 20,
+                            "mehs": 133,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2013,
+                                "content_rating": "18+",
+                                "release_country": "France",
+                                "filming_location": "Lake of Sainte-Croix, Verdon Gorge, France",
+                                "short_description": "2013 film by Alain Guiraudie",
+                                "production_company": "Arte France Cinu00e9ma"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Stranger_by_the_Lake",
+                            "videoId": "PgcEGKn7waI"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "331e9050-3e97-4b02-9f4a-ef2071524ef1",
+                            "resourceId": 174474,
+                            "slug": "The-Neon-Demon",
+                            "entityName": "The Neon Demon",
+                            "disambiguation": "2016",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/The_Neon_Demon.png",
+                            "rating": 3.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "The sixteen year-old aspiring model Jesse arrives in Los Angeles expecting to be a successful model. The aspirant photographer Dean takes photos for h",
+                            "likes": 8605,
+                            "dislikes": 1181,
+                            "saves": 104,
+                            "mehs": 521,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2016,
+                                "content_rating": "16",
+                                "release_country": "United States",
+                                "filming_location": "Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA",
+                                "short_description": "2016 film directed by Nicolas Winding Refn"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/The_Neon_Demon",
+                            "videoId": "cipOTUO0CmU"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "88044159-1a80-4539-9065-2afb61659467",
+                            "resourceId": 319218,
+                            "slug": "Saint-Maud",
+                            "entityName": "Saint Maud",
+                            "disambiguation": "2021",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Saint_Maud_poster.jpg",
+                            "rating": 4.4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "There, but for the grace of God, goes Maud, a reclusive young nurse whose impressionable demeanor causes her to pursue a pious path of Christian devot",
+                            "likes": 6044,
+                            "dislikes": 339,
+                            "saves": 0,
+                            "mehs": 216,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2021,
+                                "content_rating": "R",
+                                "release_country": "United Kingdom",
+                                "filming_location": "Scarborough, North Yorkshire, England, UK",
+                                "short_description": "2019 film directed by Rose Glass"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Saint_Maud",
+                            "videoId": "EXs2-TY9qok"
+                        }
+                    }
+                ],
+                "slug": "bury-your-gays-queer-horror",
+                "title": "Bury Your Gays: Queer Horror",
+                "typeCount": [
+                    {
+                        "count": 13,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 13,
+                "reviewedCount": 13,
+                "user": {
+                    "id": 422295,
+                    "image": "https://lh3.googleusercontent.com/a-/AOh14Gh1DI09Pvjmyz8yAi5b2uUpfFNqY4-1UzqBO-VW=s96-c",
+                    "name": "Kyle Turner",
+                    "username": "kyleturner"
+                }
+            }
+        ],
+        "categorybuds": [
+            {
+                "user": {
+                    "id": 32003,
+                    "image": "https://img.tastedive.com/a/32003-1427925296-4842b3b.jpg",
+                    "name": "AndreA",
+                    "username": "Ander",
+                    "description": "",
+                    "points": 80,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 1623
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 115
+                        },
+                        {
+                            "entityTypeId": "urn:entity:artist",
+                            "count": 17
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 89870,
+                    "image": "https://img.tastedive.com/a/89870-1443745236-071eded.jpg",
+                    "name": "Paul",
+                    "username": "DangerouslyMJJ",
+                    "description": "",
+                    "points": 4,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 2982
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 617
+                        },
+                        {
+                            "entityTypeId": "urn:entity:book",
+                            "count": 113
+                        },
+                        {
+                            "entityTypeId": "urn:entity:artist",
+                            "count": 99
+                        },
+                        {
+                            "entityTypeId": "urn:entity:videogame",
+                            "count": 67
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 16
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 207520,
+                    "image": "https://lh3.googleusercontent.com/a/AEdFTp7Rq9x03Ktki0GhEkrOvWrFO8p6sbfJJ1kl-jscjQ=s96-c",
+                    "name": "Suncica S",
+                    "username": "suncica288",
+                    "description": "",
+                    "points": 0,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 809
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 73
+                        },
+                        {
+                            "entityTypeId": "urn:entity:book",
+                            "count": 9
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 5
+                        },
+                        {
+                            "entityTypeId": "urn:entity:videogame",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 232212,
+                    "image": "https://img.tastedive.com/a/232212-1640298386-6b634f3.jpg",
+                    "name": "TM",
+                    "username": "WT385",
+                    "description": "",
+                    "points": 0,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 1977
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 144
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 250215,
+                    "image": "https://img.tastedive.com/a/250215-1480866153-ae7390e.jpg",
+                    "name": "Brickfruit",
+                    "username": "Brickfruit",
+                    "description": "",
+                    "points": 15,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 889
+                        },
+                        {
+                            "entityTypeId": "urn:entity:videogame",
+                            "count": 100
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 97
+                        },
+                        {
+                            "entityTypeId": "urn:entity:artist",
+                            "count": 39
+                        },
+                        {
+                            "entityTypeId": "urn:entity:podcast",
+                            "count": 27
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 23
+                        },
+                        {
+                            "entityTypeId": "urn:entity:book",
+                            "count": 21
+                        },
+                        {
+                            "entityTypeId": "urn:entity:person",
+                            "count": 4
+                        },
+                        {
+                            "entityTypeId": "urn:entity:place",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 255945,
+                    "image": "https://img.tastedive.com/a/255945-1517140129-aad9b09.jpg",
+                    "name": "Matteo T.",
+                    "username": "matteo.trombetti",
+                    "description": "",
+                    "points": 2,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 206
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 13
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 269939,
+                    "image": "https://graph.facebook.com/943872762419421/picture?type=large",
+                    "name": "Παναγιώτης Κληρονόμος",
+                    "username": "panagiotisklironomos",
+                    "description": "",
+                    "points": 1,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 716
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 187
+                        },
+                        {
+                            "entityTypeId": "urn:entity:videogame",
+                            "count": 115
+                        },
+                        {
+                            "entityTypeId": "urn:entity:artist",
+                            "count": 105
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 5
+                        },
+                        {
+                            "entityTypeId": "urn:entity:book",
+                            "count": 4
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 293013,
+                    "image": null,
+                    "name": "Mufomaster",
+                    "username": "bjcn",
+                    "description": "",
+                    "points": 2,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 813
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 21
+                        },
+                        {
+                            "entityTypeId": "urn:entity:videogame",
+                            "count": 7
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 306371,
+                    "image": "https://img.tastedive.com/a/306371-1647386403-fdcddcb.jpg",
+                    "name": "Mohamed Alaa",
+                    "username": "MohameddAlaaa",
+                    "description": "",
+                    "points": 11,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 1320
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 137
+                        },
+                        {
+                            "entityTypeId": "urn:entity:artist",
+                            "count": 18
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 324412,
+                    "image": "https://s3.amazonaws.com/img.tastedive.com/avatars/324412-1767229152372.jpeg",
+                    "name": "Cat",
+                    "username": "chocolatesoylatte",
+                    "description": "",
+                    "points": 5,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 399
+                        },
+                        {
+                            "entityTypeId": "urn:entity:artist",
+                            "count": 132
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 95
+                        },
+                        {
+                            "entityTypeId": "urn:entity:book",
+                            "count": 19
+                        },
+                        {
+                            "entityTypeId": "urn:entity:videogame",
+                            "count": 19
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 10
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 328461,
+                    "image": "https://img.tastedive.com/a/328461-1603673056-4505cac.jpg",
+                    "name": "kui",
+                    "username": "tastedive_kui",
+                    "description": "I like dream-like fantasy movies centered around women,&TV shows that are unique enough to be drastically different from what I watched last.Too much focus on violence,aggressive controlling men, gore,or extended make-out scenes makes me lose interest. Sc-ifi&horror are almost fantasy too.Love cats.",
+                    "points": 25,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 148
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 66
+                        },
+                        {
+                            "entityTypeId": "urn:entity:artist",
+                            "count": 36
+                        },
+                        {
+                            "entityTypeId": "urn:entity:book",
+                            "count": 11
+                        },
+                        {
+                            "entityTypeId": "urn:entity:podcast",
+                            "count": 6
+                        },
+                        {
+                            "entityTypeId": "urn:entity:person",
+                            "count": 5
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 2
+                        },
+                        {
+                            "entityTypeId": "urn:entity:videogame",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "user": {
+                    "id": 332917,
+                    "image": "https://img.tastedive.com/a/332917-1595588018-761baaa.jpg",
+                    "name": "Colin Wohlrab",
+                    "username": "colin.wohlrab",
+                    "description": "",
+                    "points": 7,
+                    "likedEntities": [
+                        {
+                            "entityTypeId": "urn:entity:movie",
+                            "count": 1494
+                        },
+                        {
+                            "entityTypeId": "urn:entity:tv_show",
+                            "count": 60
+                        },
+                        {
+                            "entityTypeId": "urn:entity:videogame",
+                            "count": 59
+                        },
+                        {
+                            "entityTypeId": "urn:entity:book",
+                            "count": 6
+                        },
+                        {
+                            "entityTypeId": "urn:entity:artist",
+                            "count": 5
+                        },
+                        {
+                            "entityTypeId": "urn:entity:author",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        ],
+        "featuredList": {
+            "id": 227699,
+            "title": "Bury Your Gays: Queer Horror",
+            "size": 13,
+            "description": "Queerness and queer horror — which is to say horror that is about or aestheticizes queerness, otherness, sexual deviancy, as experience, metaphor, dream, and nightmare — are embedded in the history of the genre, from Bram Stoker’s novel Dracula to James Whale’s 1935 film The Bride of Frankenstein. From a masked killers (one of which uses a dildo knife) to genderqueer dolls, the films selected for this program elaborate upon and extrapolate from queerness not merely as identity but as aesthetic impulse, rooted in subversion, confrontation, camp, an understanding of queerness as a tool to challenge, or deconstruct, normative ideas in art and society. Drenched in blood, paranoia, and forbidden desire, horror is queer down to the bone. ",
+            "user": {
+                "username": "kyleturner",
+                "image": "https://lh3.googleusercontent.com/a-/AOh14Gh1DI09Pvjmyz8yAi5b2uUpfFNqY4-1UzqBO-VW=s96-c"
+            },
+            "entities": [
+                {
+                    "entity": {
+                        "id": "8190ec99-8591-49a9-b28a-a5787342663a",
+                        "resourceId": 325,
+                        "slug": "The-Fly",
+                        "entityName": "The Fly",
+                        "disambiguation": "1986",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Fly_poster.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "http://en.wikipedia.org/wiki/The_Fly_(1986_film)",
+                        "rating": 4.6
+                    },
+                    "comment": {
+                        "id": 1491,
+                        "comment": "While George Langelaan’s original 1957 short story, and its 1958 film adaptation of the same name, comfortably fit within a cinema of Cold War paranoia along with its cousin Invasion of the Body Snatchers, it was hard to ignore David Cronenberg’s update of scientific hubris gone wrong being a reaction to and an allegory of the AIDS crisis with its 1986 release. Goldblum’s transformation into a human/fly hybrid is laced with melancholy, Cronenberg’s acumen for understanding the physicality of the body (and its disintegration), and its limits, and melding that with both emotion and intelligence at its peak.",
+                        "comment_length": 612,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "6b36f74a-9cd7-4db1-b1ec-c42b8933f698",
+                        "resourceId": 346,
+                        "slug": "Jennifer-s-Body",
+                        "entityName": "Jennifer's Body",
+                        "disambiguation": "2009",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Jennifers_body_ver2.jpg/136px-Jennifers_body_ver2.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "http://en.wikipedia.org/wiki/Jennifer%27s_Body",
+                        "rating": 2.9
+                    },
+                    "comment": {
+                        "id": 1494,
+                        "comment": "Toxic femininity gets a makeover by Oscar-winning screenwriter Diablo Cody and director Karyn Kusama in their cult classic tale of a bad female friendship. Drenched in black humor and sinking its razor sharp teeth into teen movie conventions, Megan Fox brings subversive wit to her role as the hottest cheerleader at school who gets saddled with a curse that turns her a boy-eating monster. Then again, that wasn’t so different from before; now it’s just more literal. Her best friend Needy (Amanda Seyfried) disapproves but must, too, reevaluate the nature of their friendship more broadly. Well, heads will roll.",
+                        "comment_length": 614,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "11d6632f-215d-4c2d-b116-5b0721a285bb",
+                        "resourceId": 4410,
+                        "slug": "Let-The-Right-One-In-2008",
+                        "entityName": "Let the Right One In",
+                        "disambiguation": "2008",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Let_the_Right_One_In_%28Swedish%29.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "http://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)",
+                        "rating": 4.7
+                    },
+                    "comment": {
+                        "id": 1489,
+                        "comment": "The vampire has long been an easy stand-in for the Other and allegory for queerness: the blood, the eternal yearning, the social and political fear. But Tomas Alfredson take on the fanged creature, based on John Ajvide Lindqvist’s novel, transforms the figure into not one of fear but one of adolescent tragedy, following the blossing romance between a 1980s Stockholm tween and the genderqueer vampire who lives next door. At once deeply felt in its tenderness and terrifying in its depiction of social ostracization, Let the Right One In is an immaculate study of queer love against the odds.",
+                        "comment_length": 594,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "3fbc3554-fdbf-4fa9-ae13-c9fff61c8202",
+                        "resourceId": 7042,
+                        "slug": "Hellraiser-Movie",
+                        "entityName": "Hellraiser",
+                        "disambiguation": "1987",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Hellraiser-UK-Quad-poster.JPG/320px-Hellraiser-UK-Quad-poster.JPG",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "https://en.wikipedia.org/wiki/Hellraiser",
+                        "rating": 4.4
+                    },
+                    "comment": {
+                        "id": 1496,
+                        "comment": "One of the most disturbing films to blur the line between pleasure and pain, the Clive Barker adaptation of tortured bodies and souls gave culture the horror icon of Pinhead and nine sequels, with an upcoming reboot on the way. A puzzle box is a key to the doorway to Hell, as characters accidentally conjure aberrant creatures in leather getups whose only job is to cause, and revel in, the extreme suffering of whoever opens the box. Expliciti and outre, the film has become a legendary entry into the horror canon, not least of all becuase of its innovative ability to find the erotic in the harrowing.",
+                        "comment_length": 605,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "309e8493-cd01-4aa9-8184-9afbb6d08cca",
+                        "resourceId": 7086,
+                        "slug": "High-Tension-Movie",
+                        "entityName": "High Tension",
+                        "disambiguation": "2003",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/High-Tension-film-poster.jpg/200px-High-Tension-film-poster.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "http://en.wikipedia.org/wiki/Haute_Tension",
+                        "rating": 4.1
+                    },
+                    "comment": {
+                        "id": 1492,
+                        "comment": "A staple of the viscerally graphic movement of Francophone cinema called New French Extremity, which gave the US’s torture porn wave a run for its money, High Tension is a hellscape of blood, guts, and… lesbian envy? A psychopathic trucker polishes off a family farm one by one in increasingly sadistic ways while the two female friends staying there fight for their lives and their sanities. Indelible in its blood spattered imagery and taut pacing, its queer desire occupies a space between the terrifying and the thrilling.",
+                        "comment_length": 526,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "ddb003aa-084f-4b79-abbb-771a332d57c1",
+                        "resourceId": 8962,
+                        "slug": "Inland-Empire",
+                        "entityName": "Inland Empire",
+                        "disambiguation": "2007",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Inpos.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "http://en.wikipedia.org/wiki/Inland_Empire_(film)",
+                        "rating": 4.1
+                    },
+                    "comment": {
+                        "id": 1497,
+                        "comment": "Filmmaker David Lynch has long been a chronicler of the rot beneath the green grass of suburbia and the obliterating sadness behind the Hollywood lights, but Inland Empire might be his magnum opus marrying the two. An actress (Laura Dern) ready for comeback in her career takes on a new role for a movie that’s a remake of a cursed and never completed film. As she begins production, the terror of the past begins to haunt the set and in turn, her psyche. A mesmerizing, off putting dovetail into LA as a purgatory for lost souls and meat-grinder for the (queer) women brave enough to try to make their dreams come true, Lynch pushes his aesthetics to the limit with a terrifying and nightmarish vision of the City of Angels.",
+                        "comment_length": 725,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "1ed3b881-db37-44b3-b2d0-340ce8dc3ae5",
+                        "resourceId": 16303,
+                        "slug": "Seed-Of-Chucky",
+                        "entityName": "Seed of Chucky",
+                        "disambiguation": "2004",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Seed_Of_Chucky_2.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "http://en.wikipedia.org/wiki/Seed_of_Chucky",
+                        "rating": 2.1
+                    },
+                    "comment": {
+                        "id": 1493,
+                        "comment": "The wisecracking, foul mouthed anthropomorphic Good Guys entered a new era in the previous entry, Bride of Chucky, newly betrothed to his lover Tiffany (Jennifer Tilly) and with a, ahem, cutting sense of humor. Chucky creator and now director Don Mancini gives the wedded couple a new challenge: parenthood. As the two balance raising a child, and as that child explores their gender identity, they wreck havoc in Hollywood, with Tilly herself getting dragged into the killer family affair. With a camp sense of humor and plenty of butchering to go around (as well as a cameo from John Waters), Seed of Chucky balances bizarre family dynamics, ruthless industry skewering, and a sincere adoration for being true to yourself. Even if that means you’re a serial killer whose soul is trapped in a doll.",
+                        "comment_length": 799,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "2bc0b6fe-5bee-473b-9488-b06317ee9fdc",
+                        "resourceId": 29778,
+                        "slug": "Cruising",
+                        "entityName": "Cruising",
+                        "disambiguation": "1980",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Cruisingposter.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "https://en.wikipedia.org/wiki/Cruising_(film)",
+                        "rating": 4.2
+                    },
+                    "comment": {
+                        "id": 1486,
+                        "comment": "Protested upon release by LGBTQ activists, William Friedkin’s film plunges Al Pacino has a cop undercover in New York’s leather scene investigating brutal murders. The deeper he finds himself in the sweat stained underworld, the more he’s asked to confront his own relationship to masculinity. Though the film has experienced somewhat of a recent critical revival, the still controversial slasher was butchered by the studio, leaving a 40 min sex party scene on the cutting room floor; even in its ambiguous and bizarre remaining form, it’s nonetheless a testament to masculine fears and a chilling spectre of the AIDS epidemic to come.",
+                        "comment_length": 636,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "f3df6c39-c707-4951-b61f-9fd839dbc37f",
+                        "resourceId": 50203,
+                        "slug": "Black-Swan-Movie",
+                        "entityName": "Black Swan",
+                        "disambiguation": "2010",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Black_Swan_poster.jpg/200px-Black_Swan_poster.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "http://en.wikipedia.org/wiki/Black_Swan_(film)",
+                        "rating": 4.5
+                    },
+                    "comment": {
+                        "id": 1487,
+                        "comment": "“I’m the Swan Queen!” bellows Nina Sayers (Natalie Portman) in Darren Aronofsky’s delirious backstage fever-nightmare of ambition and mental unraveling. As the infantilized, virginal Nina prepares for her role in Swan Lake, she sees her competition and her double in Lily, her polar opposite: sexual, wild, cutthroat. Dark and hilarious, this remix of The Red Shoes sees Nina go mad as she chases after perfection and asks herself what makes a woman.",
+                        "comment_length": 450,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "7384d002-6081-4302-b03d-40156bb87499",
+                        "resourceId": 144326,
+                        "slug": "Stranger-By-The-Lake",
+                        "entityName": "Stranger by the Lake",
+                        "disambiguation": "2013",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Stranger_by_the_Lake_poster.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "https://en.wikipedia.org/wiki/Stranger_by_the_Lake",
+                        "rating": 4.2
+                    },
+                    "comment": {
+                        "id": 1498,
+                        "comment": "Sometimes someone is so hot it doesn’t matter that they’re a murderer, right? Drawn to a nude beach with the promise of a good tan, cool water, and a bustling cruising spot, Franc (Pierre Deladonchamps) soon develops an obsession with a mustachioed daddy (Christophe Paou) whose beauty shimmers in the water. But bodies soon start appearing on the beach, alarming the local (straight) authorities and leading them to said handsome devil. Wrought with intense taut atmosphere and nerve-shredding suspense, sex and death were never so deliriously intoxicating.",
+                        "comment_length": 558,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "331e9050-3e97-4b02-9f4a-ef2071524ef1",
+                        "resourceId": 174474,
+                        "slug": "The-Neon-Demon",
+                        "entityName": "The Neon Demon",
+                        "disambiguation": "2016",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/The_Neon_Demon.png",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "https://en.wikipedia.org/wiki/The_Neon_Demon",
+                        "rating": 3.7
+                    },
+                    "comment": {
+                        "id": 1495,
+                        "comment": "The director of Drive saps Los Angeles of its blood and instead shoots it like a place of empty consumption in his horror satire of just how cutthroat you have to be to survive as a model. Filmed with a sharpness and stillness that depicts the city as an uncanny nightmare, new girl with uncompromising beauty on the block Jesse (Elle Fanning) climbs her way up the ladder leaving other models with enough envy that they might even kill for it.  Atmospheric, slick, and morbidly funny, The Neon Demon shows us a girl eat girl world.",
+                        "comment_length": 532,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "88044159-1a80-4539-9065-2afb61659467",
+                        "resourceId": 319218,
+                        "slug": "Saint-Maud",
+                        "entityName": "Saint Maud",
+                        "disambiguation": "2021",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Saint_Maud_poster.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "https://en.wikipedia.org/wiki/Saint_Maud",
+                        "rating": 4.4
+                    },
+                    "comment": {
+                        "id": 1490,
+                        "comment": "In shadow and darkness, Rose Glass’ Saint Maud blends ecstasy and terror, divine and blasphemous in bewitching ways. The mysterious Nurse Maud (Morfydd Clark) lives with little more than her devotion to God, but her newest patient (Jennifer Ehle) tests her faith in unexpected ways. As she and her new ward, a former dancer, challenge one another’s sense of goodness, Maud spirals out of control, both of their understanding of what is of the body and what is of the spirit spinning into a realm neither are prepared for.",
+                        "comment_length": 521,
+                        "rating": 0
+                    }
+                },
+                {
+                    "entity": {
+                        "id": "0f1aca47-3f53-481a-af0d-b3c3e4ae3639",
+                        "resourceId": 349201,
+                        "slug": "Knife-Heart-2018",
+                        "entityName": "Knife + Heart",
+                        "disambiguation": "2018",
+                        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Knife_%2B_Heart.jpg/200px-Knife_%2B_Heart.jpg",
+                        "entityTypeId": "urn:entity:movie",
+                        "link": "https://en.wikipedia.org/wiki/Knife%2BHeart",
+                        "rating": 4.1
+                    },
+                    "comment": {
+                        "id": 1488,
+                        "comment": "In 1970s Paris, a gay porn director (Vanessa Paradis) has a lot on her plate: she’s going through a tumultuous breakup with her editor ex, she feels the pressure to make a new and more inventive film, and her cast is being murdered off one by one by a masked killer. In bold reds and blues and neon soaked night scenes, Yann Gonzalez’s ode to Italian giallo is stained with references to Cruising and one of the ultimate testaments to how cinema makes bottoms of us all.",
+                        "comment_length": 470,
+                        "rating": 0
+                    }
+                }
+            ]
+        },
+        "recentLists": [
+            {
+                "description": "(some of them are not great....but I am desperate for representation)",
+                "entityCount": 217,
+                "entityTypeId": "urn:entity:movie",
+                "id": 194690,
+                "lastAction": "2026-05-18T10:10:17.231+00:00",
+                "likedCount": 8,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "e239292f-b9d0-4b86-8caf-ed1ff866cdad",
+                            "resourceId": 997,
+                            "slug": "Rent",
+                            "entityName": "Rent",
+                            "disambiguation": "2005",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/1/18/Rent_movie_poster.jpg",
+                            "rating": 4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 6386,
+                            "dislikes": 681,
+                            "saves": 96,
+                            "mehs": 288,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2005,
+                                "content_rating": "PG-13",
+                                "release_country": "United States",
+                                "filming_location": "Vazak's Bar - 108 Avenue B, East Village, Manhattan, New York City, New York, USA",
+                                "short_description": "2005 film by Chris Columbus"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Rent_(film)",
+                            "videoId": "KGciEYSshrQ"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "d3075931-419f-40b6-bdda-5e4b90918953",
+                            "resourceId": 999,
+                            "slug": "Milk-2008",
+                            "entityName": "Milk",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Milkposter08.jpg/135px-Milkposter08.jpg",
+                            "rating": 4.6,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 11089,
+                            "dislikes": 390,
+                            "saves": 175,
+                            "mehs": 284,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Duboce Park, San Francisco, California, USA",
+                                "short_description": "2008 film by Gus Van Sant"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Milk_(2008_American_film)",
+                            "videoId": "hF05_CB81c0"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "6f153e6c-3876-40da-ab44-f71840d903af",
+                            "resourceId": 1011,
+                            "slug": "Saved",
+                            "entityName": "Saved!",
+                            "disambiguation": "2004",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Saved%21_movie_poster.jpg/200px-Saved%21_movie_poster.jpg",
+                            "rating": 4.1,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 5876,
+                            "dislikes": 449,
+                            "saves": 138,
+                            "mehs": 365,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2004,
+                                "content_rating": "PG-13",
+                                "release_country": "United States",
+                                "filming_location": "Surrey, British Columbia, Canada",
+                                "short_description": "2004 film directed by Brian Dannelly"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Saved!",
+                            "videoId": "je18yGc6jXk"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "09339b79-b159-4b5e-bfa9-b0f503608c30",
+                            "resourceId": 1017,
+                            "slug": "The-Rocky-Horror-Picture-Show",
+                            "entityName": "The Rocky Horror Picture Show",
+                            "disambiguation": "1975",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg/200px-Original_Rocky_Horror_Picture_Show_poster.jpg",
+                            "rating": 4.4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 13676,
+                            "dislikes": 688,
+                            "saves": 136,
+                            "mehs": 454,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1975,
+                                "content_rating": "R",
+                                "release_country": "United Kingdom",
+                                "filming_location": "Oakley Court, Windsor Road, Oakley Green, Windsor, Berkshire, England, UK",
+                                "short_description": "1975 film by Jim Sharman"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+                            "videoId": "LnYBwampG8U"
+                        }
+                    }
+                ],
+                "slug": "lgbt-movies",
+                "title": "LGBT movies ",
+                "typeCount": [
+                    {
+                        "count": 217,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 217,
+                "reviewedCount": 0,
+                "user": {
+                    "id": 394301,
+                    "image": "https://lh3.googleusercontent.com/a/AEdFTp7Bg4phGDmn6SWP1NYCZwwCPFPxuEul0-OKyleM=s96-c",
+                    "name": "Mavi",
+                    "username": "atilganmavi"
+                }
+            },
+            {
+                "description": "there’s nothing scarier than an unhinged woman",
+                "entityCount": 49,
+                "entityTypeId": "urn:entity:movie",
+                "id": 215112,
+                "lastAction": "2026-04-14T20:42:04.785+00:00",
+                "likedCount": 5,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "5b56a1b6-942c-4838-9ae4-dbc064632797",
+                            "resourceId": 70,
+                            "slug": "Drag-Me-To-Hell",
+                            "entityName": "Drag Me to Hell",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Dragmetohell.jpg",
+                            "rating": 3.8,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 10120,
+                            "dislikes": 1289,
+                            "saves": 37,
+                            "mehs": 671,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "14A",
+                                "release_country": "United States",
+                                "filming_location": "1031 Everett St, Los Angeles, California, USA",
+                                "short_description": "2009 film directed by Sam Raimi"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Drag_Me_to_Hell",
+                            "videoId": "PPOaxHqoYxo"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "6b36f74a-9cd7-4db1-b1ec-c42b8933f698",
+                            "resourceId": 346,
+                            "slug": "Jennifer-s-Body",
+                            "entityName": "Jennifer's Body",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Jennifers_body_ver2.jpg/136px-Jennifers_body_ver2.jpg",
+                            "rating": 2.9,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 8726,
+                            "dislikes": 2646,
+                            "saves": 41,
+                            "mehs": 1072,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Devil's Kettle Falls, Minnesota, USA",
+                                "short_description": "2009 film by Karyn Kusama"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Jennifer%27s_Body",
+                            "videoId": "C8azftM5puI"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "b004a6be-1d45-4605-bdf9-ec62bef4e44d",
+                            "resourceId": 419,
+                            "slug": "Queen-Of-The-Damned",
+                            "entityName": "Queen of the Damned",
+                            "disambiguation": "2002",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Queen_of_the_Damned.jpg",
+                            "rating": 2.8,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 5818,
+                            "dislikes": 1961,
+                            "saves": 83,
+                            "mehs": 640,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2002,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "St. Albans, Victoria, Australia",
+                                "short_description": "2002 film by Michael Rymer"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Queen_of_the_Damned_(film)",
+                            "videoId": "0P60c7-_u60"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "307bb69f-1452-4209-a6d6-5e0953743904",
+                            "resourceId": 1019,
+                            "slug": "Mirrormask",
+                            "entityName": "Mirrormask",
+                            "disambiguation": "2006",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Mirrormask.jpg/200px-Mirrormask.jpg",
+                            "rating": 4.2,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 4777,
+                            "dislikes": 330,
+                            "saves": 269,
+                            "mehs": 233,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2006,
+                                "content_rating": "PG",
+                                "release_country": "United Kingdom",
+                                "filming_location": "Embassy Court, Brighton, East Sussex, England, UK",
+                                "short_description": "2005 film by Dave McKean"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/MirrorMask",
+                            "videoId": "2pbNMf0FZJw"
+                        }
+                    }
+                ],
+                "slug": "female-monsters-vampires-in-film",
+                "title": "Female Monsters & Vampires in Film",
+                "typeCount": [
+                    {
+                        "count": 49,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 49,
+                "reviewedCount": 0,
+                "user": {
+                    "id": 357945,
+                    "image": "https://img.tastedive.com/a/357945-1595587925-071d0d4.jpg",
+                    "name": "MKH",
+                    "username": "truthwolf"
+                }
+            },
+            {
+                "description": "Get ready for some hilarious and terrifying laughs with this list of horror comedies! From zombie flicks to supernatural spoofs, these films deliver the perfect mix of scares and chuckles. With witty writing, outrageous gags, and a healthy dose of gore, these movies are sure to keep you on the edge of your seat and rolling in the aisles.",
+                "entityCount": 29,
+                "entityTypeId": "urn:entity:movie",
+                "id": 254797,
+                "lastAction": "2023-02-09T05:47:54.466+00:00",
+                "likedCount": 2,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "f0591e96-a669-4bcd-99cc-f4c0e90e9bf1",
+                            "resourceId": 106,
+                            "slug": "Zombieland",
+                            "entityName": "Zombieland",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Zombieland-poster.jpg/200px-Zombieland-poster.jpg",
+                            "rating": 4.6,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 26242,
+                            "dislikes": 705,
+                            "saves": 95,
+                            "mehs": 993,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "490 West Paces Ferry Rd, Atlanta, Georgia, USA",
+                                "short_description": "2009 film by Ruben Fleischer"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Zombieland",
+                            "videoId": "8m9EVP8X7N8"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "49fd009e-5f82-476f-b345-88eb38d596d2",
+                            "resourceId": 2071,
+                            "slug": "Slither-2006",
+                            "entityName": "Slither",
+                            "disambiguation": "2006",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Slithermovieposter.jpg",
+                            "rating": 4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 6874,
+                            "dislikes": 678,
+                            "saves": 34,
+                            "mehs": 469,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2006,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Langley, British Columbia, Canada",
+                                "short_description": "2006 film by James Gunn"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Slither_(2006_film)",
+                            "videoId": "SI0BcgVdSWg"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "9d979412-5e42-4e47-8b1d-e644a107f1d0",
+                            "resourceId": 4919,
+                            "slug": "Scary-Movie",
+                            "entityName": "Scary Movie",
+                            "disambiguation": "2000",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Movie_poster_for_%22Scary_Movie%22.jpg",
+                            "rating": 3.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 12077,
+                            "dislikes": 1545,
+                            "saves": 22,
+                            "mehs": 938,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2000,
+                                "content_rating": "18A",
+                                "release_country": "United States",
+                                "filming_location": "Steveston, Richmond, British Columbia, Canada",
+                                "short_description": "2000 film by Keenen Ivory Wayans"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Scary_Movie",
+                            "videoId": "HTLPULt0eJ4"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "f2ac5664-af68-4ee9-a284-8552a2f75f08",
+                            "resourceId": 5762,
+                            "slug": "Evil-Dead-II",
+                            "entityName": "Evil Dead II",
+                            "disambiguation": "1987",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Evil_Dead_II_poster.jpg",
+                            "rating": 4.6,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 10118,
+                            "dislikes": 304,
+                            "saves": 7,
+                            "mehs": 211,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1987,
+                                "content_rating": "16",
+                                "release_country": "United States",
+                                "filming_location": "De Laurentiis Studios, Wilmington, North Carolina, USA",
+                                "short_description": "1987 film by Sam Raimi"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Evil_Dead_II",
+                            "videoId": "6lM3NPeEG24"
+                        }
+                    }
+                ],
+                "slug": "laughing-through-the-fear-a-list-of-hilarious-horror-comedy-films",
+                "title": "Laughing Through the Fear: A List of Hilarious Horror-Comedy Films",
+                "typeCount": [
+                    {
+                        "count": 29,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 29,
+                "reviewedCount": 0,
+                "user": {
+                    "id": 441770,
+                    "image": "https://img.tastedive.com/a/441770-1667199133-876445b.jpg",
+                    "name": "lola",
+                    "username": "minhyukitty"
+                }
+            },
+            {
+                "description": "rom-com",
+                "entityCount": 50,
+                "entityTypeId": "urn:entity:movie",
+                "id": 256890,
+                "lastAction": "2023-02-09T03:37:29.443478+00:00",
+                "likedCount": 3,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "71b8f065-aa4f-47a5-81e7-cf0b21615048",
+                            "resourceId": 134,
+                            "slug": "27-Dresses",
+                            "entityName": "27 Dresses",
+                            "disambiguation": "2008",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Twenty_seven_dresses.jpg/200px-Twenty_seven_dresses.jpg",
+                            "rating": 3.8,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 10797,
+                            "dislikes": 1161,
+                            "saves": 78,
+                            "mehs": 1039,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2008,
+                                "content_rating": "PG-13",
+                                "release_country": "United States",
+                                "filming_location": "Club Hell - 73 Richmond Street, Providence, Rhode Island, USA",
+                                "short_description": "2008 film by Anne Fletcher"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/27_Dresses",
+                            "videoId": "J9DzAjOe7sY"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "d510e1f4-0c27-437f-92b2-79b6c6d8a4d1",
+                            "resourceId": 159,
+                            "slug": "The-Proposal",
+                            "entityName": "The Proposal",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/The_Proposal.jpg/200px-The_Proposal.jpg",
+                            "rating": 4.4,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 15478,
+                            "dislikes": 710,
+                            "saves": 63,
+                            "mehs": 879,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "PG",
+                                "release_country": "United States",
+                                "filming_location": "Bearskin Neck, Rockport, Massachusetts, USA",
+                                "short_description": "2009 film by Anne Fletcher"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/The_Proposal_(2009_film)",
+                            "videoId": "Z2lYA7L7PZY"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "b724f939-5b67-4f2e-9595-5c73b5b7b77f",
+                            "resourceId": 466,
+                            "slug": "The-Clique-Movie",
+                            "entityName": "The Clique",
+                            "disambiguation": "2008",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/3/34/The_Clique_film.jpg",
+                            "rating": 2.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 1118,
+                            "dislikes": 380,
+                            "saves": 100,
+                            "mehs": 181,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2008,
+                                "content_rating": "PG",
+                                "release_country": "United States",
+                                "filming_location": "Rhode Island, USA",
+                                "short_description": "2008 film by Michael Lembeck"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/The_Clique_(film)",
+                            "videoId": "CYk80K4FzkM"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "c78a05b1-e2f5-4024-b6d3-c7981ba38bb4",
+                            "resourceId": 640,
+                            "slug": "10-Things-I-Hate-About-You-Movie",
+                            "entityName": "10 Things I Hate About You",
+                            "disambiguation": "1999",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/10_Things_I_Hate_About_You_film.jpg/200px-10_Things_I_Hate_About_You_film.jpg",
+                            "rating": 4.6,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 19537,
+                            "dislikes": 421,
+                            "saves": 119,
+                            "mehs": 710,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1999,
+                                "content_rating": "PG-13",
+                                "release_country": "United States",
+                                "filming_location": "Stadium High School - 111 N. E Street, Tacoma, Washington, USA",
+                                "short_description": "1999 film directed by Gil Junger"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/10_Things_I_Hate_About_You",
+                            "videoId": "yEmcEuS6xm4"
+                        }
+                    }
+                ],
+                "slug": "guilty-pleasure",
+                "title": "Guilty pleasure ",
+                "typeCount": [
+                    {
+                        "count": 50,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 50,
+                "reviewedCount": 0,
+                "user": {
+                    "id": 426084,
+                    "image": null,
+                    "name": "Eset",
+                    "username": "esetyismaw"
+                }
+            },
+            {
+                "description": "My personnal favorites, and your future personnal favourites",
+                "entityCount": 204,
+                "entityTypeId": "urn:entity:movie",
+                "id": 237942,
+                "lastAction": "2023-02-05T01:24:32.656224+00:00",
+                "likedCount": 33,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "6a1ec6e2-00b2-4c02-b441-eb02610c91cc",
+                            "resourceId": 39,
+                            "slug": "Trainspotting-Movie",
+                            "entityName": "Trainspotting",
+                            "disambiguation": "1996",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Trainspotting_ver2.jpg/200px-Trainspotting_ver2.jpg",
+                            "rating": 4.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 29356,
+                            "dislikes": 671,
+                            "saves": 510,
+                            "mehs": 865,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1996,
+                                "content_rating": "16",
+                                "release_country": "United Kingdom",
+                                "filming_location": "Corrour Station, Highland, Scotland, UK",
+                                "short_description": "1996 film by Danny Boyle"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Trainspotting_(film)",
+                            "videoId": "8LuxOYIpu-I"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "7f2b849d-e64c-4b7a-bf35-ff7b154fbd22",
+                            "resourceId": 72,
+                            "slug": "Ed-Wood",
+                            "entityName": "Ed Wood",
+                            "disambiguation": "1994",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Ed_Wood_film_poster.jpg/200px-Ed_Wood_film_poster.jpg",
+                            "rating": 4.6,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 10581,
+                            "dislikes": 254,
+                            "saves": 208,
+                            "mehs": 306,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1994,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Hollywood United Methodist Church - North Campus - 4301 Cahuenga Blvd, Toluca Lake, Los Angeles, California, USA",
+                                "short_description": "1994 film by Tim Burton"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Ed_Wood_(film)",
+                            "videoId": "CawVaHxWvnA"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "b5c8fc3d-4842-486e-8b1c-b31deb9430bb",
+                            "resourceId": 104,
+                            "slug": "Lock-Stock-And-Two-Smoking-Barrels",
+                            "entityName": "Lock, Stock and Two Smoking Barrels",
+                            "disambiguation": "1998",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Lock%2C_Stock_and_Two_Smoking_Barrels_2.jpg/200px-Lock%2C_Stock_and_Two_Smoking_Barrels_2.jpg",
+                            "rating": 4.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 22104,
+                            "dislikes": 346,
+                            "saves": 254,
+                            "mehs": 555,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1998,
+                                "content_rating": "R",
+                                "release_country": "United Kingdom",
+                                "filming_location": "St John Street, London, Greater London, England, UK",
+                                "short_description": "1998 film by Guy Ritchie"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Lock,_Stock_and_Two_Smoking_Barrels",
+                            "videoId": "HY7mRdQuUSw"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "6c386839-f7fa-445c-964c-5fa7882b9c54",
+                            "resourceId": 201,
+                            "slug": "Human-Traffic",
+                            "entityName": "Human Traffic",
+                            "disambiguation": "2000",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Human_Traffic_poster.JPG/134px-Human_Traffic_poster.JPG",
+                            "rating": 4.6,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 4935,
+                            "dislikes": 164,
+                            "saves": 115,
+                            "mehs": 138,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2000,
+                                "content_rating": "R",
+                                "release_country": "United Kingdom",
+                                "filming_location": "Cardiff, South Glamorgan, Wales, UK",
+                                "short_description": "1999 film by Justin Kerrigan"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Human_Traffic",
+                            "videoId": "HAPK6ZYq_p0"
+                        }
+                    }
+                ],
+                "slug": "the-cinema-jewelry",
+                "title": "The Cinema Jewelry ",
+                "typeCount": [
+                    {
+                        "count": 204,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 204,
+                "reviewedCount": 0,
+                "user": {
+                    "id": 433421,
+                    "image": "https://lh3.googleusercontent.com/a/AEdFTp41Q_K4V1bsoKS41O-xIDryEMKlizjpzPcT4znTFw=s96-c",
+                    "name": "Nathan Delaire",
+                    "username": "nathandelairee3f090"
+                }
+            },
+            {
+                "description": "This list of movies captures a range of emotions, from heartbreaking to heartwarming, and everything in between. Some of these films will make you cry, while others will make you laugh and feel uplifted. Whether you're in the mood for a heart-wrenching drama, a touching romance, or an inspiring true story, this list has something for everyone. These movies showcase the power of human emotions and the complexities of the human experience, reminding us of the struggles, triumphs, and moments of pure joy that make up our lives. So grab some tissues, settle in, and let these films take you on an emotional journey that will leave you feeling both vulnerable and inspired.",
+                "entityCount": 47,
+                "entityTypeId": "urn:entity:movie",
+                "id": 253974,
+                "lastAction": "2023-02-03T09:10:21.19745+00:00",
+                "likedCount": 0,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "13176032-0332-4a37-abab-29addf5cf40d",
+                            "resourceId": 332,
+                            "slug": "Up-2009",
+                            "entityName": "Up",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Up_%282009_film%29.jpg/200px-Up_%282009_film%29.jpg",
+                            "rating": 4.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 33937,
+                            "dislikes": 604,
+                            "saves": 81,
+                            "mehs": 1128,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "G",
+                                "release_country": "United States",
+                                "filming_location": "Pixar Animation Studios - 1200 Park Avenue, Emeryville, California, USA",
+                                "short_description": "2009 American computer-animated comedy-adventure film"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Up_(2009_film)",
+                            "videoId": "HWEW_qTLSEE"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "1eb7bc58-738e-483a-9eb3-c165d1a85de7",
+                            "resourceId": 957,
+                            "slug": "Marley-Me-Movie",
+                            "entityName": "Marley & Me",
+                            "disambiguation": "2008",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/MarleyPoster.jpg/135px-MarleyPoster.jpg",
+                            "rating": 4.3,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 10066,
+                            "dislikes": 553,
+                            "saves": 22,
+                            "mehs": 460,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2008,
+                                "content_rating": "PG",
+                                "release_country": "United States",
+                                "filming_location": "West Chester, Pennsylvania, USA",
+                                "short_description": "2008 film by David Frankel"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Marley_%26_Me_(film)",
+                            "videoId": "RsTbVvyL4aM"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "e4fd5f16-4499-4431-9ca9-115625146109",
+                            "resourceId": 1303,
+                            "slug": "Into-The-Wild-Movie",
+                            "entityName": "Into the Wild",
+                            "disambiguation": "2007",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Into_the_Wild_%282007_film_poster%29.png/200px-Into_the_Wild_%282007_film_poster%29.png",
+                            "rating": 4.5,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 24476,
+                            "dislikes": 783,
+                            "saves": 233,
+                            "mehs": 855,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2007,
+                                "content_rating": "R",
+                                "release_country": "United States",
+                                "filming_location": "Astoria, Oregon, USA",
+                                "short_description": "2007 film directed by Sean Penn"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Into_the_Wild_(film)",
+                            "videoId": "XZG1FzyB8DI"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "51664c86-2270-4eb5-87fd-6e2ec2bae00b",
+                            "resourceId": 1395,
+                            "slug": "Schindler-s-List-Movie",
+                            "entityName": "Schindler's List",
+                            "disambiguation": "1994",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Schindler%27s_List_movie.jpg/133px-Schindler%27s_List_movie.jpg",
+                            "rating": 4.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 29587,
+                            "dislikes": 616,
+                            "saves": 405,
+                            "mehs": 640,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 1994,
+                                "content_rating": "14",
+                                "release_country": "United States",
+                                "filming_location": "Auschwitz-Birkenau Concentration Camp, Oswiecim, Malopolskie, Poland",
+                                "short_description": "1993 film by Steven Spielberg"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Schindler%27s_List",
+                            "videoId": "gG22XNhtnoY"
+                        }
+                    }
+                ],
+                "slug": "emotionally-complex-movies-from-heartache-to-healing",
+                "title": "Emotionally Complex Movies: From Heartache to Healing",
+                "typeCount": [
+                    {
+                        "count": 47,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 47,
+                "reviewedCount": 0,
+                "user": {
+                    "id": 441770,
+                    "image": "https://img.tastedive.com/a/441770-1667199133-876445b.jpg",
+                    "name": "lola",
+                    "username": "minhyukitty"
+                }
+            },
+            {
+                "description": "Movies featured on the bad movie podcast The Flop House",
+                "entityCount": 58,
+                "entityTypeId": "urn:entity:movie",
+                "id": 253109,
+                "lastAction": "2023-02-01T08:19:43.425818+00:00",
+                "likedCount": 0,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "533592e5-1da1-4041-8105-d9da73daf69a",
+                            "resourceId": 140,
+                            "slug": "Bride-Wars",
+                            "entityName": "Bride Wars",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/e/eb/Bride_wars.jpg",
+                            "rating": 3.1,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 8620,
+                            "dislikes": 2016,
+                            "saves": 77,
+                            "mehs": 1136,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "G",
+                                "release_country": "United States",
+                                "filming_location": "Boston, Massachusetts, USA",
+                                "short_description": "2009 film directed by Gary Winick"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Bride_Wars",
+                            "videoId": "KBDE4uznmIw"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "7aa2c296-8a6e-45f1-b114-bdbe93f66778",
+                            "resourceId": 340,
+                            "slug": "Knowing",
+                            "entityName": "Knowing",
+                            "disambiguation": "2009",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Knowingposter08.jpg",
+                            "rating": 3.7,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 10286,
+                            "dislikes": 1345,
+                            "saves": 79,
+                            "mehs": 986,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2009,
+                                "content_rating": "13+",
+                                "release_country": "United States",
+                                "filming_location": "Camberwell High School, Camberwell, Melbourne, Victoria, Australia",
+                                "short_description": "2009 film directed by Alex Proyas"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Knowing_(film)",
+                            "videoId": "C2zSFElhgE0"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "6c16384d-cf35-48e1-8012-72ae228b7356",
+                            "resourceId": 437,
+                            "slug": "Stealth",
+                            "entityName": "Stealth",
+                            "disambiguation": "2005",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/Stealth_poster.jpg",
+                            "rating": 2.2,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 3873,
+                            "dislikes": 2032,
+                            "saves": 117,
+                            "mehs": 865,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2005,
+                                "content_rating": "14A",
+                                "release_country": "United States",
+                                "filming_location": "Flinders Ranges, South Australia, Australia",
+                                "short_description": "2005 film by Rob Cohen"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Stealth_(film)",
+                            "videoId": "a2PW7a9ViDc"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "338e713f-72bf-47d2-a045-da2585569bb6",
+                            "resourceId": 929,
+                            "slug": "Vantage-Point",
+                            "entityName": "Vantage Point",
+                            "disambiguation": "2008",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Vantage_point_08.jpg/200px-Vantage_point_08.jpg",
+                            "rating": 4.2,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 8494,
+                            "dislikes": 483,
+                            "saves": 73,
+                            "mehs": 562,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2008,
+                                "content_rating": "14A",
+                                "release_country": "United States",
+                                "filming_location": "Puebla, Puebla, Mexico",
+                                "short_description": "2008 film by Pete Travis"
+                            },
+                            "teaser": "",
+                            "link": "http://en.wikipedia.org/wiki/Vantage_Point_(film)",
+                            "videoId": "vDp-08uNH0Y"
+                        }
+                    }
+                ],
+                "slug": "the-flop-house-podcast-movie-list",
+                "title": "The Flop House Podcast Movie List",
+                "typeCount": [
+                    {
+                        "count": 58,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 58,
+                "reviewedCount": 0,
+                "user": {
+                    "id": 421685,
+                    "image": "https://img.tastedive.com/a/421685-1631261072-11e8573.jpg",
+                    "name": "GI Schmo",
+                    "username": "gischmoe"
+                }
+            },
+            {
+                "description": "From those I've seen, will get updated",
+                "entityCount": 9,
+                "entityTypeId": "urn:entity:movie",
+                "id": 258390,
+                "lastAction": "2023-02-01T04:48:47.393307+00:00",
+                "likedCount": 0,
+                "entities": [
+                    {
+                        "entity": {
+                            "id": "e89bc483-adf0-4f6e-83aa-d37b25cd94bc",
+                            "resourceId": 478149,
+                            "slug": "Triangle-Of-Sadness",
+                            "entityName": "Triangle of Sadness",
+                            "disambiguation": "2022",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TriangleOfSadness2022Poster.jpg/200px-TriangleOfSadness2022Poster.jpg",
+                            "rating": 4.9,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 5616,
+                            "dislikes": 50,
+                            "saves": 0,
+                            "mehs": 49,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2022,
+                                "release_country": "Sweden",
+                                "filming_location": "Hiliadou Beach, Evoia, Greece",
+                                "short_description": "2022 film directed by Ruben Östlund"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Triangle_of_Sadness",
+                            "videoId": "DUxiaZ0RCZg"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "aa1b7cbb-da01-460e-8bae-76c094ea341a",
+                            "resourceId": 549097,
+                            "slug": "Nope",
+                            "entityName": "Nope",
+                            "disambiguation": "2022",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Nope_%28film%29_poster.jpg",
+                            "rating": 4.3,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 8730,
+                            "dislikes": 604,
+                            "saves": 0,
+                            "mehs": 318,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2022,
+                                "release_country": "United States",
+                                "filming_location": "Los Angeles, California, USA",
+                                "short_description": "2022 film directed by Jordan Peele"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Nope_(film)",
+                            "videoId": "In8fuzj3gck"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "f0d354aa-ba7e-49d2-8aba-9a8250f5c852",
+                            "resourceId": 566325,
+                            "slug": "Everything-Everywhere-All-At-Once-2022",
+                            "entityName": "Everything Everywhere All at Once",
+                            "disambiguation": "2022",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Everything_Everywhere_All_at_Once.jpg/135px-Everything_Everywhere_All_at_Once.jpg",
+                            "rating": 4.6,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 11721,
+                            "dislikes": 431,
+                            "saves": 0,
+                            "mehs": 208,
+                            "properties": {
+                                "is_special": false,
+                                "release_year": 2022,
+                                "content_rating": "14A",
+                                "release_country": "United States",
+                                "filming_location": "San Fernando Majers Coin Laundry - 260 S Meyer St, San Fernando, California, USA",
+                                "short_description": "2022 film directed by Dan Kwan and Daniel Scheinert"
+                            },
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+                            "videoId": "wxN1T1uxQ2g"
+                        }
+                    },
+                    {
+                        "entity": {
+                            "id": "00000000-0000-0000-0000-000000629564",
+                            "resourceId": 629564,
+                            "slug": "Speak-No-Evil-3",
+                            "entityName": "speak no evil",
+                            "disambiguation": "2022",
+                            "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Speak_No_Evil_Official_Poster.jpg",
+                            "rating": null,
+                            "entityTypeId": "urn:entity:movie",
+                            "entityDescription": "",
+                            "likes": 9,
+                            "dislikes": 1,
+                            "saves": 0,
+                            "mehs": 1,
+                            "properties": null,
+                            "teaser": "",
+                            "link": "https://en.wikipedia.org/wiki/Speak_No_Evil_(2022_film)",
+                            "videoId": "INHM--6XQzQ"
+                        }
+                    }
+                ],
+                "slug": "best-movies-of-2022",
+                "title": "Best movies of 2022",
+                "typeCount": [
+                    {
+                        "count": 9,
+                        "entityType": {
+                            "title": "movie",
+                            "entityTypeId": "urn:entity:movie"
+                        }
+                    }
+                ],
+                "size": 9,
+                "reviewedCount": 0,
+                "user": {
+                    "id": 217192,
+                    "image": "https://img.tastedive.com/a/217192-1468912429-6cf6aa4.jpg",
+                    "name": "Jaype",
+                    "username": "Jaype"
+                }
+            }
+        ],
+        "recentlyAddedEntities": [
+            {
+                "id": "ffffbec0-2692-4859-8b9b-607d913facc5",
+                "resourceId": 637815,
+                "slug": "Sultan-1978",
+                "entityName": "Sultan",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "Portrayal of a young depressed Turkish widow in the slums whose infinite dignity alone looks after her orphan kids is depicted by the son of the town sheriff, who is in love with her.",
+                "teaser": "",
+                "likes": 767
+            },
+            {
+                "id": "fffe0102-cf31-4980-aa80-69fb389a6190",
+                "resourceId": 32740,
+                "slug": "Marked-For-Death",
+                "entityName": "Marked for Death",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "Chicago DEA agent John Hatcher has just returned from Colombia, where his partner was killed in the line of duty by a drug dealer who has since been taken down. As a result of his partner's death, John has decided to retire, but his retirement may not be permanent. On the next day, after reuniting with his sister Melissa and Melissa's daughter Tracy, John gets into a shootout against a Jamaican drug kingpin known as Screwface, taking down some of Screwface's men. John brings himself out of retirement when Screwface retaliates by attempting to kill Melissa and Tracy. After the shooting, John is reunited with two old friends - a local high school football coach named Max, and a Jamaican Chicago cop named Charles. John and Max set out to hunt Screwface down, only to discover that Screwface has gone back to Jamaica. John and Max take Charles with them to Jamaica for an all out war against Screwface and his drug empire.",
+                "teaser": "<p>Marked for Death is a 1990 American action film directed by Dwight H. Little. The film stars Steven Seagal as John Hatcher, a former DEA troubleshooter who returns to his Illinois hometown to find it taken over by a posse of vicious Jamaican drug dealers led by Screwface. Using a combination of fear and Obeah, a Jamaican syncretic religion of West African and Caribbean origin similar to Haitian vodou and Santería, Screwface rules the drug trade in Hatcher's Lincoln Heights.</p><p>Drug Enforcement Administration (DEA) agent and decorated soldier John Hatcher returns from Colombia, where drug dealers killed his partner Chico, and John killed the dealers. As a result of Chico's death and years of dead-end work, Hatcher retires and heads to his family's hometown of Lincoln Heights, in suburban Chicago. He visits the local high school to meet old friend and former U.S. Army buddy Max Keller who works there as a football coach and physical education teacher.</p>",
+                "likes": 1991
+            },
+            {
+                "id": "fffde2af-1d7e-4638-8329-fc3258d8aee9",
+                "resourceId": 74613,
+                "slug": "Pistol-Whipped",
+                "entityName": "Pistol Whipped",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "Matt is an elite ex-cop whose life has gone down hill since he was kicked off the Force. After a rough encounter with a mysterious henchman, Matt is brought face to face with his only chance at reclaiming his life and clearing his gambling debt markers. Only after he gets started on his new tasks does he recognize good guy from bad. Meanwhile Matt's love for his only daughter helps him battle one of his greatest enemies, alcoholism.",
+                "teaser": "<p>Pistol Whipped is a 2008 American action film directed by Roel Reiné. The film stars Steven Seagal, and was released on direct-to-DVD in the United States on March 4, 2008.</p><p>Matt Conner is an unemployed, drinking deadbeat. Once he was a police officer who lived with his wife Liz and his daughter Becky. Then, his partner disappeared, along with a large stash of police-impounded money. Due to the fact that Matt was an avid gambler, he was the prime suspect for the crime, but his colleague Steve lied that he and Matt were playing poker, thus giving him an alibi. Since the police still suspected Matt of the crimes, he was thrown off the police force. Matt's wife files for divorce and marries Steve. Matt's daughter Becky stays with Steve while Matt spends his time gambling and heavily drinking.</p>",
+                "likes": 304
+            },
+            {
+                "id": "fffd4d49-36ac-4808-b147-d7b53a7bf15d",
+                "resourceId": 397637,
+                "slug": "Wolkenbruchs-Wunderliche-Reise-In-Die-Arme-Einer-Schickse-2018",
+                "entityName": "The Awakening of Motti Wolkenbruch",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "Young orthodox Jew Mordechai Wolkenbruch, called Motti, has a serious problem: All the women, whom his mama introduces to him as potential wives, look just like her. Fellow student Laura, however, does not, at all - but unfortunately she is a schikse. She wears pants, has a nice tuches, drinks gin and tonic, and swears. Motti begins to have doubts about the predetermined path given by his parents as the road for him to follow? His obedience towards his mother's disturbing methods starts to fade as his passion for Laura grows. Things take their course, and very soon Motti comes to a conclusion: even schiksen can be totally nuts.",
+                "teaser": "<p>Wolkenbruchs wunderliche Reise in die Arme einer Schickse ist eine Schweizer Filmkomödie aus dem Jahr 2018 von Michael Steiner mit Joel Basman als Motti Wolkenbruch, Noémie Schmidt als Laura sowie Inge Maux und Udo Samel als Mame und Tate Wolkenbruch. Das Drehbuch von Thomas Meyer basiert auf seinem gleichnamigen Roman aus dem Jahr 2012. Die Premiere erfolgte am 29. September 2018 am Zurich Film Festival, der Schweizer Kinostart erfolgte am 25. Oktober 2018. Der Film war mit über 270'000 Besuchern die erfolgreichste Schweizer Produktion 2018. Er ist die erste Schweizer Produktion, die weltweit auf Netflix gezeigt wird.</p><p>Der Film erzählt von dem jungen orthodoxen Juden Mordechai Wolkenbruch, genannt Motti, der bislang immer brav all das getan hat, was ihm seine Mame aufgetragen hatte. Nun möchte sie ihn verkuppeln und stellt ihm eine potenzielle Heiratskandidatin nach der anderen vor. Da beginnt Motti, sich aufzulehnen und von seinem bisherigen Lebensweg abzuweichen.</p>",
+                "likes": 623
+            },
+            {
+                "id": "fffc118c-87e0-4a8b-af36-40de69cc23e6",
+                "resourceId": 656080,
+                "slug": "The-Runner-1999",
+                "entityName": "The Runner",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "A young man with an addiction to gambling has managed to get himself into serious debt. In an effort to pay off the bookies, his uncle pulls a few strings and gets him a job working for a gangster who needs a \"runner\" to place bets with various bookies. The gangster keeps his new \"runner\" on a short leash, and for the most part the young gambler behaves himself. However, the temptation of walking around with large sums of cash proves too great, and the \"runner\" puts both his job and his survival on the line when he dips into his boss's funds to buy a ring for his girlfriend.",
+                "teaser": "<p>The Runner is a 1999 crime thriller film directed by Ron Moler and starring Ron Eldard and Courteney Cox.</p><p>The soundtrack contains songs performed by Nick Cave and the Bad Seeds and Douglas September.</p><p>In the film, a young man (Ron Eldard) with a gambling addiction has managed to get himself into serious debt by losing all his money. In an effort to pay off the bookies, his uncle pulls a few strings and gets him a job working for a gangster named Deepthroat  (played by John Goodman), who needs a \"runner\" to place bets with various bookies. The gangster keeps his new \"runner\" on a short leash and, for the most part, the young gambler behaves himself. However, the temptation of walking around with large sums of cash proves too great, and the \"runner\" puts both his job and his survival on the line when he dips into his boss' funds to buy a ring for his girlfriend, played by Cox.</p>",
+                "likes": 82
+            },
+            {
+                "id": "fff76ae1-3a10-4255-a63d-014a7d16746b",
+                "resourceId": 546989,
+                "slug": "Mahal",
+                "entityName": "Mahal",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "The story is about a man Shankar who moves into an old n abandoned palace. Upon his visit to the palace, he is greeted by the gardener who tells him that the palace was inhabited by a couple forty years back and that the couple died one aft another cos of their intense love. Shankar is astonished when he sees the photo of the old owner which looks exactly like him. At night time Shankar follows a woman singing n the moment he approaches, she disappears. He tells this to his friend but the friend warms him to stay away from the palace. The ghost appears again but this time she warns the friend to not come between Shankar n her. Shankar slowly gets drawn towards the ghost n the palace n his insanity becomes questionable aft his marriage.",
+                "teaser": "<p>Mahal (transl. \"Mansion\") is a 1949 Indian Hindi-language horror film produced by Savak Vacha and Ashok Kumar under the banner of Bombay Talkies, and directed by Kamal Amrohi as his directorial debut. The film centres on a screenplay written by Amrohi, while its music is composed by Khemchand Prakash. Cited as Bollywood's first horror film, it revolves around an aristocrat who moves into an ancient mansion, where he gets visions of a mysterious lady (Madhubala) claiming to be his lover in their previous lives.</p>",
+                "likes": 111
+            },
+            {
+                "id": "fff749a4-a926-41f5-93df-713c07374e04",
+                "resourceId": 216680,
+                "slug": "Creepy",
+                "entityName": "Creepy",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "Takakura is a former detective. He receives a request from his ex-colleague, Nogami, to examine a missing family case that occurred six years earlier. Takakura follows Saki's memory. She is the only surviving family member from the case. Meanwhile, Takakura and his wife Yasuko recently moved into a new home. Their neighbor, Nishino, has a sick wife and a young teen daughter. One day, the daughter, Mio, tells him that the man is not her father and she doesn't know him at all.",
+                "teaser": "<p>Creepy (クリーピー 偽りの隣人, Kurīpī: Itsuwari no Rinjin) is a 2016 Japanese thriller film directed by Kiyoshi Kurosawa, starring Hidetoshi Nishijima, Yūko Takeuchi, Teruyuki Kagawa, Haruna Kawaguchi, and Masahiro Higashide. Based on the 2012 novel by Yutaka Maekawa, it is about a married couple uncovering the secrets of their new, mysterious neighbor. The film had its world premiere at the 66th Berlin International Film Festival on 13 February 2016. It was released in Japan on 18 June 2016.</p><p>Having resigned as a profiler following an injury, Koichi Takakura and his wife Yasuko move to a place closer to his new job as a university lecturer in criminal psychology. In an effort to be friendly, Yasuko introduces herself to their two neighbors. One of them is Mrs. Tanaka and her bed-ridden mother, who coldly reject any kind of friendship with the Takakuras. Yasuko rings the doorbell at the house of their other neighbor, who lives in-between the Takakuras and Tanakas, but there is no answer. When Yasuko goes again to leave a bag of chocolates at the middle neighbor's gate, he appears and identifies himself as Masayuki Nishino. Their initial encounter gives Yasuko a creepy impression of Nishino, as he acts strangely whenever he's around her.</p>",
+                "likes": 1211
+            },
+            {
+                "id": "fff2d5cc-40a4-495f-b206-3538f7ddb661",
+                "resourceId": 351487,
+                "slug": "My-Love-Story",
+                "entityName": "My Love Story!!",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "Gouda Takeo is a big guy with a heart just as big. Unfortunately, the girls are not interested in him and only want his good-looking best friend, Sunakawa. Accepting the fact, Takeo is content with his single life. However, one day, after saving a girl named Yamato from a harasser, he unexpectedly turns his life around.",
+                "teaser": "<p>My Love Story!! (俺物語!!, Ore Monogatari!!) is a 2015 Japanese high school romantic comedy film directed by Hayato Kawai and based on the manga series of the same name written by Kazune Kawahara and illustrated by Aruko. It was released on October 31, 2015. Southeast Asian anime distributor ODEX began to release the film in Singapore, Malaysia, Indonesia, and the Philippines between January and February 2016.</p><p>On the day of his graduation from middle school the extremely tall, gorilla like boy Takeo Goda attempts to confess his love to his crush, Kagami, but Kagami instead confesses her love to Takeo's best friend and next door neighbour, the handsome and popular Sunakawa \"Suna\" Makoto, who promptly turns her down.</p>",
+                "likes": 131
+            },
+            {
+                "id": "fff29acc-079b-40ad-ba07-caf78076345a",
+                "resourceId": 601621,
+                "slug": "Abelar-Tales-Of-An-Ancient-Empire",
+                "entityName": "Abelar: Tales of an Ancient Empire",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "A princess is on a quest to unite the five greatest warriors to save her kingdom from a demon sorceress.",
+                "teaser": "",
+                "likes": 72
+            },
+            {
+                "id": "fff288f0-395c-42c1-a7a6-7cc9eb866cc1",
+                "resourceId": 28032,
+                "slug": "Bommarillu",
+                "entityName": "Bommarillu",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "Siddu is the son of an over-protective business man. Every decision of his is made by his father, which leads him into frustration. He half-heartedly agrees to become engaged to a rich man's daughter, but then falls for a middle-class man's daughter called Hasini. The film focuses on his realization that he has to stand on his own and come out of his father's protective shell- and try to succeed in love.",
+                "teaser": "<p>Bommarillu is a 2006 Indian Telugu-language romantic comedy film directed and co-written by Bhaskar in his directorial debut, and produced by Dil Raju. The film stars Siddharth, Genelia, Prakash Raj and Jayasudha. The film primarily revolves around the relationship between a father and son, in which the father's excessive concern for his son, and interference in his life, leads to the latter harbouring bitterness towards his overbearing father. The cinematography was handled by Vijay C Chakravarthy and editing done by Marthand K. Venkatesh. The music for the film was composed by Devi Sri Prasad, whose soundtrack of the film received positive reviews from critics.</p>",
+                "likes": 1381
+            },
+            {
+                "id": "fff1a9f8-4141-4d72-9a21-98c3182c6482",
+                "resourceId": 1298207,
+                "slug": "one-day-in-the-life-of-andrei-arsenevitch",
+                "entityName": "One Day in the Life of Andrei Arsenevitch",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "A documentary made prior to the death of filmmaker Andrei Tarkovsky, showing him working on his final film \"The Sacrifice\". This documentation was made at Tarkovsky's request to stand as a record of his working practices. Interspersed with clips of the director's previous films, this should prove especially interesting for fans of Tarkovsky's work.",
+                "teaser": "",
+                "likes": 189
+            },
+            {
+                "id": "fff0e4cf-fdbb-456a-8cc7-dcaa0e84377a",
+                "resourceId": 354377,
+                "slug": "The-Quarry-2020",
+                "entityName": "The Quarry",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "After murdering a traveling preacher, a fugitive drifter travels to a small town and poses as the man he killed. Though the congregation loves the drifter's sermons of forgiveness, the local police chief is suspicious of the man. Soon a gruesome discovery at a local quarry forces the killer to fight for his freedom.",
+                "teaser": "<p>The Quarry is a 2020 American mystery thriller film directed by Scott Teems, from a screenplay by Teems and Andrew Brotzman, based upon the 1995 novel of the same name by Damon Galgut. It stars Shea Whigham, Michael Shannon, Catalina Sandino Moreno, Bobby Soto, Bruno Bichir and Alvaro Martinez.</p>",
+                "likes": 387
+            },
+            {
+                "id": "ffeea3a1-a155-4e16-b728-3dc298ebe9ae",
+                "resourceId": 571501,
+                "slug": "Banyo",
+                "entityName": "Banyo",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "The film takes place in three bathrooms. Two of them are side-by-side and the third sees the two right across the street. In these 3 places, 3 different couples and a young voyeur boy (actually an art student who researches for a project) are described in stories. At the core of these stories there are determinations of the nature of men and women, marriage and betrayal.",
+                "teaser": "",
+                "likes": 93
+            },
+            {
+                "id": "ffee3d54-456b-4cfe-8971-718e25b2e26f",
+                "resourceId": 8196,
+                "slug": "Missing-In-Action",
+                "entityName": "Missing in Action",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "Colonel James Braddock is an American officer who spent seven years in a North Vietnamese POW camp, then escaped 10 years ago. After the bloodiest war, Braddock accompanies a government investigation team that goes to Ho Chi Minh City to check out reports of Americans still held prisoner. Braddock gets the evidence then travels to Thailand, where he meets Tuck, an old Army buddy turned black market kingpin. Together, they launch a mission deep into the jungle to free the American POWs from General Trau.",
+                "teaser": "<p>Missing in Action is a 1984 American action film directed by Joseph Zito and starring Chuck Norris. It is set in the context of the Vietnam War POW/MIA issue. Colonel Braddock, who escaped a Vietnamese prisoner of war camp 10 years earlier, returns to Vietnam to find American soldiers listed as missing in action during the Vietnam War. The film was followed by a prequel, Missing in Action 2: The Beginning (1985), and a sequel, Braddock: Missing in Action III (1988). It is the first installment in the Missing in Action film series. \"Missing In Action\" was actually intended to be a sequel to \"Missing in Action 2\", but when it became clear that \"Missing in Action\" was a much better film with stronger commercial prospects, \"Missing in Action 2\" was turned into both a sequel and a prequel that detailed events before those in \"Missing in Action.\"</p>",
+                "likes": 1262
+            },
+            {
+                "id": "ffed6078-f553-45d6-9510-0d76df2fb30c",
+                "resourceId": 443190,
+                "slug": "The-Ring-Virus",
+                "entityName": "The Ring Virus",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "After the mysterious death of her niece and other three teenagers on the same hour and with the symptoms of heart attack, the journalist Sun-ju decides to investigate their last moments. She discloses that the four friends had just watched a videotape exactly one week before their death in a resort. She travels to the place and finds the deadly video and after watching the weird footage, her telephone rings. When she takes a picture of herself, she sees her image blurred the same way that happened with the teenagers. She makes a copy of the cursed tape to her acquaintance, the skeptical coroner Choi Yeol. Together they seek for a hint, and find that it was taped thorough telekinesis by Eun-suh, a psychic girl that had disappeared years ago. When Sun-ju's little daughter watches the movie, Sun-ju has a stronger reason to unravel the mystery to save her daughter and her own lives.",
+                "teaser": "<p>The Ring Virus (Korean: 링; RR: Ring) is a 1999 South Korean horror film adapted from the Japanese novel Ring by Koji Suzuki. A joint project between Japan and Korea, this version has Park Eun-Suh as the creator of the cursed videotape. Although the filmmakers claimed that the film was adapted from the novel, it differs from the novel in ways that match the 1998 film Ring, such as having a female lead character, and several scenes were directly copied, including some of the scenes on the videotape and the film's climax.</p><p>This film is essentially a shot-for-shot remake of the 1998 version by Hideo Nakata</p><p>This remake only exists because South Korea had a ban on Japanese cultural imports, preventing Ringu from being released over there. A remake for the South Korean market had to be commissioned instead. The ban was eventually lifted in late 1998, but production for the film had already been completed.</p>",
+                "likes": 254
+            },
+            {
+                "id": "ffed5848-2ed9-41c9-a16a-811341118325",
+                "resourceId": 880307,
+                "slug": "enrico-piaggio-vespa",
+                "entityName": "Enrico Piaggio: Vespa",
+                "entityTypeId": "urn:entity:movie",
+                "entityDescription": "The life of Enrico Piaggio and the story of the most famous scooter in the world \"VESPA\"",
+                "teaser": "",
+                "likes": 470
+            }
+        ],
+        "heroSectionData": [
+            {
+                "id": "dcf2d39d-d56d-4456-88c5-eef843f57529",
+                "resourceId": 1392,
+                "slug": "Fight-Club-1999",
+                "entityName": "Fight Club",
+                "disambiguation": "1999",
+                "image": "https://m.media-amazon.com/images/M/MV5BNDVhNjJlZmMtODJhOS00OWE4LTgxMzAtNjVlMzI0ZjI0OTMzXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "18b098fd-3d84-4609-bff3-adf9a0b00e40",
+                "resourceId": 23241,
+                "slug": "Inception-2010",
+                "entityName": "Inception",
+                "disambiguation": "2010",
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "0c397b97-645c-43d3-812d-8872e47c69ab",
+                "resourceId": 1875,
+                "slug": "The-Shawshank-Redemption",
+                "entityName": "The Shawshank Redemption",
+                "disambiguation": "1994",
+                "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "b6dd7d76-1f1b-4171-af2f-03fb0c66f6cb",
+                "resourceId": 1339,
+                "slug": "Pulp-Fiction-1994",
+                "entityName": "Pulp Fiction",
+                "disambiguation": "1994",
+                "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "c6046119-7760-4733-b84e-374e029b14dc",
+                "resourceId": 1346,
+                "slug": "The-Matrix",
+                "entityName": "The Matrix",
+                "disambiguation": "1999",
+                "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "c0eaa2be-987d-408c-ac2b-92f92e3d2035",
+                "resourceId": 1805,
+                "slug": "Harry-Potter-And-The-Sorcerer-s-Stone-2001",
+                "entityName": "Harry Potter and the Sorcerer's Stone",
+                "disambiguation": "2001",
+                "image": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "1b34b32b-5ed3-49a4-b5c2-5d6186eb9a86",
+                "resourceId": 1345,
+                "slug": "The-Truman-Show",
+                "entityName": "The Truman Show",
+                "disambiguation": "1998",
+                "image": "https://m.media-amazon.com/images/M/MV5BZmFjMjA4YjYtOTExYy00ZDM1LWIwZmYtZWY5Yjg4ODNkNjRiXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "3432c364-c883-4a0d-a76b-99a57e5361e5",
+                "resourceId": 54,
+                "slug": "The-Dark-Knight-Movie",
+                "entityName": "The Dark Knight",
+                "disambiguation": "2008",
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "d92ecbe1-5e9a-4e2b-b3e2-ed495c563e0d",
+                "resourceId": 2830,
+                "slug": "Forrest-Gump-1994",
+                "entityName": "Forrest Gump",
+                "disambiguation": "1994",
+                "image": "https://m.media-amazon.com/images/M/MV5BYWYwNWY0ZjMtYzUxZS00ODI3LTllNzctODNiNjhlNjcyNWM0XkEyXkFqcGdeQXVyMjcwMzM0OTI@._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "bdad8908-2ee9-4845-883f-af554ca0da84",
+                "resourceId": 1538,
+                "slug": "Catch-Me-If-You-Can-Movie",
+                "entityName": "Catch Me If You Can",
+                "disambiguation": "2003",
+                "image": "https://m.media-amazon.com/images/M/MV5BN2E4OWRkZDctNTNhMi00MTQzLTg1MDQtNGYyZDE5NTkxMThiXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "5a497879-d9f1-4ff2-a3e0-f769bf1d7fc9",
+                "resourceId": 764,
+                "slug": "Se7en-1995",
+                "entityName": "Se7en",
+                "disambiguation": "1995",
+                "image": "https://m.media-amazon.com/images/M/MV5BZDgyZmY5MmItY2I3Ny00NjA4LWFhNmItMGQ4ZGJhZDk5YjU3XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            },
+            {
+                "id": "086e2298-1734-4043-a1c9-0e18121b384c",
+                "resourceId": 2041,
+                "slug": "Eternal-Sunshine-Of-The-Spotless-Mind",
+                "entityName": "Eternal Sunshine of the Spotless Mind",
+                "disambiguation": "2004",
+                "image": "https://m.media-amazon.com/images/M/MV5BOTU1ZDI4NTYtMTgwZi00NTU5LWIwYTktYjg3N2UzZGExYWYwXkEyXkFqcGdeQXVyMTgxOTIzNzk@._V1_.jpg",
+                "entityTypeId": "urn:entity:movie"
+            }
+        ]
+    },
+    "__N_SSG": true
+}
