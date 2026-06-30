@@ -31,9 +31,9 @@ function Header() {
           <div className="flex items-center gap-12">
             <div className="flex items-center gap-2">
               <Clapperboard className="size-6 text-[#E50914]" />
-              <span className="bg-gradient-to-r from-[#E50914] to-[#F5C518] bg-clip-text text-transparent font-extrabold text-xl leading-7 tracking-tight">
+              <Link to="/" className="bg-gradient-to-r from-[#E50914] to-[#F5C518] bg-clip-text text-transparent font-extrabold text-xl leading-7 tracking-tight">
                 CineStreams
-              </span>
+              </Link>
             </div>
             <nav className="flex items-center gap-8">
               <Link to="/" className="relative font-semibold text-neutral-50 text-sm leading-5 flex items-center gap-1.5">
