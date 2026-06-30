@@ -1,12 +1,17 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useContext } from "react";
 import {Play} from "lucide-react";
+import { recentlyViewedContext } from "../context/recentlyViewedContext"; 
+import { Link } from "react-router-dom";
 
 
 const MovieCard = (props) => {
   const ratingText = props.rating === 0 ? "N/A" : props.rating?.toFixed(1);
+  const context = useContext(recentlyViewedContext);
+  console.log(context)
   return (
-    
-      <div className="group relative flex-shrink-0 cursor-pointer flex flex-col gap-2 w-57">
+      <Link to={`/movie/${props.id}`}
+      onClick={() => addMovie(props)}>
+        <div className="group relative flex-shrink-0 cursor-pointer flex flex-col gap-2 w-57">
       <div className="relative aspect-[2/3] rounded-lg overflow-hidden">
         <img
             src={`https://image.tmdb.org/t/p/w500${props.posterPath}`}
@@ -26,11 +31,13 @@ const MovieCard = (props) => {
         <p className="truncate font-semibold text-neutral-50 text-sm leading-5">
           {props.title}
         </p>
-        <p className="text-[#a1a1a1] text-xs leading-4">Sci-Fi · 
+        {/* <p className="text-[#a1a1a1] text-xs leading-4">Sci-Fi · 
           
-          <span>{props.releaseDate?.split("-")[0]}</span></p>
+          <span>{props.releaseDate?.split("-")[0]}</span></p> */}
       </div>
     </div>
+      </Link>
+      
 
     
   );

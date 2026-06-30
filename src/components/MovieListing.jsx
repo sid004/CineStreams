@@ -28,7 +28,7 @@ const MovieListing = () => {
         </span>
       </section>
 
-      <FilterTypes />
+      {/* <FilterTypes /> */}
       <section className="flex gap-4 flex-wrap">
         {movies.map((item) => {
           return (

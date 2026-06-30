@@ -7,6 +7,7 @@ import MovieDetailsPage from "./pages/MovieDetailsPage.jsx";
 import TvDetailsPage from "./pages/TvDetailsPage.jsx";
 import SearchPage from "./pages/SearchPage.jsx";
 import GenreDetailPage from "./pages/GenreDetailPage.jsx";
+import {recentlyViewedContext} from "./context/recentlyViewedContext.jsx";
 
 const App = () => {
   return (

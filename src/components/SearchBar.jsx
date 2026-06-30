@@ -28,7 +28,7 @@ const SearchBar = () => {
   }, [debouncedSearch]);
 
   return (
-    <div>
+    <div className="p-8">
       <h1 className="leading-tight font-bold text-white text-5xl leading-15 tracking-tight text-center z-40 my-4">
         Discover Your Next Watch
       </h1>

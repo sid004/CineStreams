@@ -76,7 +76,7 @@ const GenreBrowser = () => {
 
   return (
     <div className="p-8">
-      <SearchBar />
+      
       <div className="flex gap-4 items-center mb-4">
         <Grid2x2 style={{ color: "#F5C518" }} />
         <h2 className="font-bold text-neutral-50 text-2xl leading-8 flex items-center gap-2">
