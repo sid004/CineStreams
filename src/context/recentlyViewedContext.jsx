@@ -14,8 +14,13 @@ export const RecentlyViewedProvider = ({children}) => {
         })
     }
 
+    const clearRecentlyViewed = () => {
+        setrecentlyViewed([]);
+        localStorage.removeItem("recentlyViewed");
+    }
+
     return (
-        <recentlyViewedContext.Provider value = {{recentlyViewed, addMovie}}>
+        <recentlyViewedContext.Provider value = {{recentlyViewed, addMovie, clearRecentlyViewed}}>
             {children}
         </recentlyViewedContext.Provider>
     )

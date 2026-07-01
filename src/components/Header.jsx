@@ -49,14 +49,14 @@ function Header() {
                 <Tv className="size-4" />
                 TV Shows
               </Link>
-              <a className="transition-colors font-medium text-[#a1a1a1] text-sm leading-5 flex items-center gap-1.5">
+              {/* <a className="transition-colors font-medium text-[#a1a1a1] text-sm leading-5 flex items-center gap-1.5">
                 <Flame className="size-4" />
                 {`New & Hot`}
               </a>
               <a className="transition-colors font-medium text-[#a1a1a1] text-sm leading-5 flex items-center gap-1.5">
                 <Bookmark className="size-4" />
                 My List
-              </a>
+              </a> */}
             </nav>
           </div>
           <div className="flex items-center gap-6">

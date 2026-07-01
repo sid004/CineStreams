@@ -18,7 +18,7 @@ const GenreDetailPage = () => {
       <h2 className="font-bold text-neutral-50 text-4xl leading-10 tracking-tight p-8">
         {name} Movies
       </h2>
-      <div className="flex flex-wrap">
+      <div className="flex flex-wrap gap-4 p-8">
         {genre?.map((item) => {
           return <GenreCards title={name} movie={item} />;
         })}
