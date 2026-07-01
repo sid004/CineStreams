@@ -7,6 +7,7 @@ import { Link } from "react-router-dom";
 const MovieCard = (props) => {
   const ratingText = props.rating === 0 ? "N/A" : props.rating?.toFixed(1);
   const context = useContext(recentlyViewedContext);
+  const { addMovie } = useContext(recentlyViewedContext);
   console.log(context)
   return (
       <Link to={`/movie/${props.id}`}
