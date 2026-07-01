@@ -8,7 +8,7 @@ const MovieCard = (props) => {
   const ratingText = props.rating === 0 ? "N/A" : props.rating?.toFixed(1);
   const context = useContext(recentlyViewedContext);
   const { addMovie } = useContext(recentlyViewedContext);
-  console.log(context)
+  console.log(props)
   return (
       <Link to={`/movie/${props.id}`}
       onClick={() => addMovie(props)}>
@@ -32,9 +32,9 @@ const MovieCard = (props) => {
         <p className="truncate font-semibold text-neutral-50 text-sm leading-5">
           {props.title}
         </p>
-        {/* <p className="text-[#a1a1a1] text-xs leading-4">Sci-Fi · 
+        <p className="text-[#a1a1a1] text-xs leading-4">
           
-          <span>{props.releaseDate?.split("-")[0]}</span></p> */}
+          <span>{props.releaseDate?.split("-")[0]}</span></p>
       </div>
     </div>
       </Link>

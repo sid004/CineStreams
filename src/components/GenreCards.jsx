@@ -1,11 +1,11 @@
 import MovieCard from "./MovieCard";
 import { Play } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const GenreCards = (props) => {
-  console.log(props.movie);
+  console.log(props.movie.id);
   return (
-    <div className="p-8">
-      
+    <Link to={`/movie/${props.id}`}>
 
       <div className="group relative flex-shrink-0 cursor-pointer flex flex-col gap-2 w-57">
         <div className="relative aspect-[2/3] rounded-lg overflow-hidden">
@@ -28,12 +28,11 @@ const GenreCards = (props) => {
             {props.movie.title}
           </p>
           <p className="text-[#a1a1a1] text-xs leading-4">
-            Sci-Fi ·
-            {/* <span>{props.movie.releaseDate?.split("-")[0]}</span> */}
+            <span>{props.movie.releaseDate?.split("-")[0]}</span>
           </p>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 
