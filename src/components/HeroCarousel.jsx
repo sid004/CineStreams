@@ -8,10 +8,10 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 
 const HeroCarousel = () => {
-  const data = useFetch(
+  const { moviesdata, loading} = useFetch(
     `${import.meta.env.VITE_BASE_URL}movie/popular?api_key=${import.meta.env.VITE_TMDB_API_KEY}`,
   );
-  const movies = data?.results || [];
+  const movies = moviesdata?.results || [];
   return (
     <Swiper
       modules={[Navigation, Pagination, Autoplay]}

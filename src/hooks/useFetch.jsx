@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 
 const useFetch = (url) => {
-  const [movies, setMovies] = useState([]);
+  const [moviesdata, setMovies] = useState([]);
+  const [loading, setLoading] = useState(true)
 
   useEffect(() => {
 
@@ -16,18 +17,21 @@ const useFetch = (url) => {
     
     async function fetchMovies() {
       try {
+        setLoading(true);
         const response = await fetch(url);
         const data = await response.json();
         setMovies(data);
       } catch (error) {
         console.log(error);
+      }finally{
+        setLoading(false);
       }
     }
 
     fetchMovies();
   }, [url]);
 
-  return movies;
+  return {moviesdata , loading};
 };
 
 export default useFetch;

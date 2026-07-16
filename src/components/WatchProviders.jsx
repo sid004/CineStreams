@@ -4,11 +4,11 @@ import { MonitorPlay } from "lucide-react";
 
 const WatchProviders = () => {
   const { id } = useParams();
-  const data = useFetch(
+  const { moviesdata, loading} = useFetch(
     `${import.meta.env.VITE_BASE_URL}movie/${id}/watch/providers?api_key=${import.meta.env.VITE_TMDB_API_KEY}`,
   );
 
-  const providers = data?.results?.IN?.flatrate;
+  const providers = moviesdata?.results?.IN?.flatrate;
   return (
     <div className=" streaming-providers flex flex-col gap-4 p-8">
       <div className="flex items-center gap-2">
