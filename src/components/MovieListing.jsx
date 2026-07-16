@@ -3,14 +3,15 @@ import useFetch from "../hooks/useFetch";
 import FilterTypes from "./FilterTypes";
 import MovieCard from "./MovieCard";
 import {useState} from "react";
-import {Link} from "react-router-dom"
+import {Link} from "react-router-dom";
+import Shimmer from "../components/Shimmer";
 
 const MovieListing = () => {
   const [page, setPage] = useState(1);
-  const data = useFetch(
+  const { moviesdata, loading} = useFetch(
     `${import.meta.env.VITE_BASE_URL}movie/popular?api_key=${import.meta.env.VITE_TMDB_API_KEY}&page=${page}`
   );
-  const movies = data?.results || [];
+  const movies = moviesdata?.results || [];
 
   return (
     <div className="movieListing p-8">
@@ -24,13 +25,16 @@ const MovieListing = () => {
           </p>
         </div>
         <span className="text-[#a1a1a1] text-sm leading-5">
-          {data.total_results}
+          {moviesdata.total_results}
         </span>
       </section>
 
       {/* <FilterTypes /> */}
       <section className="flex gap-4 flex-wrap">
-        {movies.map((item) => {
+        {loading ? 
+        Array.from({ length: 12 }).map((_, index) => (
+        <Shimmer key={index} />
+      )) :movies.map((item) => {
           return (
             <Link to = {`/movie/${item.id}`}>
               <MovieCard

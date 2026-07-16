@@ -69,10 +69,10 @@ export const genreConfig = {
 };
 
 const GenreBrowser = () => {
-  const data = useFetch(
+  const { moviesdata, loading} = useFetch(
     `${import.meta.env.VITE_BASE_URL}genre/movie/list?api_key=${import.meta.env.VITE_TMDB_API_KEY}`,
   );
-  const genre = data.genres;
+  const genre = moviesdata.genres;
 
   return (
     <div className="p-8">

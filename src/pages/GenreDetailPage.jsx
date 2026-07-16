@@ -5,10 +5,10 @@ import GenreCards from "../components/GenreCards";
 
 const GenreDetailPage = () => {
   const { name, id } = useParams();
-  const data = useFetch(
+  const { moviesdata, loading} = useFetch(
     `${import.meta.env.VITE_BASE_URL}discover/movie?api_key=${import.meta.env.VITE_TMDB_API_KEY}&with_genres=${id}`,
   );
-  const genre = data.results;
+  const genre = moviesdata.results;
   console.log(genre);
 
   return (

@@ -3,12 +3,13 @@ import { useState, useEffect } from "react";
 import useFetch from "../hooks/useFetch";
 import { Link } from "react-router-dom";
 import {Popcorn} from "lucide-react";
+import Shimmer from "../components/Shimmer";
 
 const UpcomingMovies = () => {
-  const data = useFetch(
+  const {moviesdata, loading} = useFetch(
     `${import.meta.env.VITE_BASE_URL}movie/upcoming?api_key=${import.meta.env.VITE_TMDB_API_KEY}`,
   );
-  const movies = data?.results || [];
+  const movies = moviesdata?.results || [];
   return (
     <div className="flex justify-between items-start flex-col p-8">
       <div className="flex">
@@ -20,7 +21,11 @@ const UpcomingMovies = () => {
         
       </div>
       <div className="flex gap-4 flex-wrap">
-        {movies.map((item) => {
+        {loading ? 
+        Array.from({ length: 12 }).map((_, index) => (
+        <Shimmer key={index} />
+      )) :
+        movies.map((item) => {
           return (
             <Link to={`/movie/${item.id}`}>
               <MovieCards

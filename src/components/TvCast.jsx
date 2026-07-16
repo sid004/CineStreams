@@ -3,10 +3,10 @@ import { useParams } from "react-router-dom";
 
 const TvCast = () => {
   const { id } = useParams();
-  const data = useFetch(
+  const { moviesdata, loading} = useFetch(
     `${import.meta.env.VITE_BASE_URL}tv/${id}/credits?api_key=${import.meta.env.VITE_TMDB_API_KEY}`,
   );
-  const castCrew = data?.cast;
+  const castCrew = moviesdata?.cast;
   return (
     <section className="flex gap-8">
       {castCrew?.slice(0, 4).map((item) => (

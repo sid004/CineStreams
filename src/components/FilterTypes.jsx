@@ -1,10 +1,10 @@
 import useFetch from "../hooks/useFetch";
 
 const FilterTypes = () => {
-  const data = useFetch(
+  const {moviesdata, loading} = useFetch(
     `${import.meta.env.VITE_BASE_URL}genre/movie/list?api_key=${import.meta.env.VITE_TMDB_API_KEY}`,
   );
-  const filterMovies = data?.genres || [];
+  const filterMovies = moviesdata?.genres || [];
   return (
     <div>
       <section className="filter flex mb-8 justify-between items-center gap-4">

@@ -4,14 +4,13 @@ import MovieCards from "../components/MovieCard";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper/modules";
 import { Link } from "react-router-dom";
-
-
+import Shimmer from "../components/Shimmer";
 
 const TrendingMovie = () => {
-  const data = useFetch(
+  const { moviesdata, loading } = useFetch(
     `${import.meta.env.VITE_BASE_URL}trending/movie/day?api_key=${import.meta.env.VITE_TMDB_API_KEY}`,
   );
-  const movies = data?.results || [];
+  const movies = moviesdata?.results || [];
 
   return (
     <div className="flex justify-between items-center flex-col p-8">
@@ -27,21 +26,28 @@ const TrendingMovie = () => {
       </div>
 
       <div className="flex gap-4 flex-wrap">
-        {movies.map((item) => {
-          return (
-            <Link to={`/movie/${item.id}`}>
-              <MovieCards
-              title={item.title}
-              overview={item.overview}
-              posterPath={item.poster_path}
-              releaseDate={item.release_date}
-              rating={Math.floor(item.vote_average)}
-              id={item.id}
-            />
-            </Link>
-            
-          );
-        })}
+        {loading ? (
+          <section className="flex gap-4 flex-wrap">
+            {Array.from({ length: 12 }).map((_, index) => (
+              <Shimmer key={index} />
+            ))}
+          </section>
+        ) : (
+          movies.map((item) => {
+            return (
+              <Link to={`/movie/${item.id}`}>
+                <MovieCards
+                  title={item.title}
+                  overview={item.overview}
+                  posterPath={item.poster_path}
+                  releaseDate={item.release_date}
+                  rating={Math.floor(item.vote_average)}
+                  id={item.id}
+                />
+              </Link>
+            );
+          })
+        )}
       </div>
     </div>
   );
